@@ -1,0 +1,87 @@
+# See /usr/share/postfix/main.cf.dist for a commented, more complete version
+
+
+# Debian specific:  Specifying a file name will cause the first
+# line of that file to be used as the name.  The Debian default
+# is /etc/mailname.
+#myorigin = /etc/mailname
+
+smtpd_banner = $myhostname ESMTP 
+biff = no
+
+# appending .domain is the MUA's job.
+append_dot_mydomain = no
+
+# Uncomment the next line to generate "delayed mail" warnings
+#delay_warning_time = 4h
+
+readme_directory = no
+
+# See http://www.postfix.org/COMPATIBILITY_README.html -- default to 2 on
+# fresh installs.
+#compatibility_level = 2
+
+# TLS parameters
+smtpd_use_tls=yes
+smtp_use_tls=yes
+smtpd_tls_security_level = may
+smtpd_tls_auth_only = yes
+smtpd_tls_mandatory_protocols = !SSLv2,!SSLv3,!TLSv1,!TLSv1.1
+smtpd_tls_protocols=!SSLv2,!SSLv3,!TLSv1,!TLSv1.1
+#smtpd_tls_mandatory_protocols = !SSLv2,!SSLv3
+#smtpd_tls_protocols=!SSLv2,!SSLv3
+smtpd_tls_mandatory_ciphers = medium
+tls_medium_cipherlist = AES128+EECDH:AES128+EDH
+#smtp_tls_CAfile = /etc/ssl/certs/ca-bundle.trust.crt
+smtp_tls_CAfile = /etc/ssl/certs/ca-certificates.crt
+smtpd_tls_cert_file=/etc/letsencrypt/live/pragmasec.nl/fullchain.pem
+smtpd_tls_key_file=/etc/letsencrypt/live/pragmasec.nl/privkey.pem
+smtpd_tls_session_cache_database = btree:${data_directory}/smtpd_scache
+smtp_tls_session_cache_database = btree:${data_directory}/smtp_scache
+smtp_tls_loglevel = 1
+smtpd_tls_loglevel = 1
+# SASL
+smtpd_sasl_type = dovecot
+# Can be an absolute path, or relative to $queue_directory
+# Debian/Ubuntu users: Postfix is setup by default to run chrooted, so it is best to leave it as-is below
+smtpd_sasl_path = private/auth
+smtpd_sasl_security_options = noanonymous
+# On Debian Wheezy path must be relative and queue_directory defined
+#queue_directory = /var/spool/postfix
+# and the common settings to enable SASL:
+smtpd_sasl_auth_enable = yes
+# With Postfix version before 2.10, use smtpd_recipient_restrictions
+smtpd_relay_restrictions = permit_mynetworks, permit_sasl_authenticated, reject_unauth_destination
+# See /usr/share/doc/postfix/TLS_README.gz in the postfix-doc package for
+# information on enabling SSL in the smtp client.
+#smtpd_relay_restrictions = permit_mynetworks permit_sasl_authenticated defer_unauth_destination
+myhostname = server.pragmasec.nl
+alias_maps = hash:/etc/aliases
+alias_database = hash:/etc/aliases
+myorigin = server.pragmasec.nl 
+mydestination = $myhostname, server.pragmasec.nl, localhost.pragmasec.nl, , localhost
+relayhost = 
+mynetworks = 127.0.0.0/8 [::ffff:127.0.0.0]/104 [::1]/128
+mailbox_size_limit = 0
+recipient_delimiter = +
+inet_interfaces = all
+inet_protocols = ipv4 
+# Virtual users
+virtual_alias_domains = pragmasec.nl protegam.nl 
+virtual_alias_maps = hash:/etc/postfix/virtual
+# ANTI SPAM
+### Checks to remove badly formed email
+smtpd_helo_required     = yes
+strict_rfc821_envelopes = yes
+disable_vrfy_command = yes
+unknown_address_reject_code  = 554
+unknown_hostname_reject_code = 554
+unknown_client_reject_code   = 554
+smtpd_recipient_restrictions = permit_sasl_authenticated, reject_invalid_hostname, reject_non_fqdn_hostname, reject_non_fqdn_sender, reject_non_fqdn_recipient, reject_unknown_sender_domain, reject_unknown_recipient_domain, permit_mynetworks, reject_unauth_destination, reject_rbl_client psbl.surriel.com, reject_rbl_client zen.spamhaus.org, reject_rbl_client b.barracudacentral.org, reject_rhsbl_sender dsn.rfc-ignorant.org, check_policy_service inet:127.0.0.1:10023 permit 
+#mailbox_command = /usr/libexec/dovecot/dovecot-lda -f "$SENDER" -a "$RECIPIENT"
+#mailbox_command = /usr/bin/procmail -a "$EXTENSION"
+mailbox_command = /usr/bin/procmail -p 
+header_checks = regexp:/etc/postfix/header_checks
+# add to the end
+#content_filter=smtp-amavis:[127.0.0.1]:10024
+message_size_limit = 52428800
