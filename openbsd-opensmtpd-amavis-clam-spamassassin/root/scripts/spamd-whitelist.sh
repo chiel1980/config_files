@@ -1,11 +1,12 @@
 #!/bin/sh
 #
-## Calomel.org  spamd_whitelist.sh
+## Borrowed from Calomel.org  spamd_whitelist.sh -> added my own checks to ensure better loading of errors
 #
 
 FILE=/etc/mail/spamd-spf.txt
+FILE_BCK=/etc/mail/spamd-spf.txt.bck
 
-rm -f $FILE >/dev/null
+cp $FILE $FILE_BCK
 touch $FILE
 
 #!/bin/sh
@@ -53,3 +54,13 @@ do
 	echo '91.233.83.200' >> $FILE
 done
 sed -i 's/"//' $FILE >/dev/null 
+
+if pfctl -n -f /etc/pf.conf; then
+    printf 'pf rules check succeeded\n'
+    pfctl -f /etc/pf.conf
+else
+    printf 'pf rules check failed\n'
+    printf 'restoring backup spamd-whitelist that worked'
+    cp $FILE_BCK $FILE
+    pfctl -f /etc/pf.conf
+fi
