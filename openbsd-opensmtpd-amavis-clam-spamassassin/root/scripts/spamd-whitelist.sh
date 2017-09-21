@@ -1,12 +1,11 @@
 #!/bin/sh
 #
-## Borrowed from Calomel.org  spamd_whitelist.sh -> added my own checks to ensure better loading of errors
 #
 
 FILE=/etc/mail/spamd-spf.txt
 FILE_BCK=/etc/mail/spamd-spf.txt.bck
 
-cp $FILE $FILE_BCK
+mv $FILE $FILE_BCK
 touch $FILE
 
 #!/bin/sh
@@ -53,14 +52,32 @@ do
         getv4 include:${DOMAIN} >> $FILE                                                                                               
 	echo '91.233.83.200' >> $FILE
 done
+# remove some bad characters
 sed -i 's/"//' $FILE >/dev/null 
+sed -i 's/#.*$//' $FILE >/dev/null 
+sed -i '/^$/d' $FILE >/dev/null 
+sed -i '/167\.89\.74/d' $FILE >/dev/null
+# test for valid ip's
+/root/scripts/valid_ip.sh  | grep bad
+if /root/scripts/valid_ip.sh | grep bad; then
+    printf 'ip check failed\n'
+    printf 'restoring backup spamd-whitelist that worked\n'
+    cp $FILE_BCK $FILE
+    echo ''
+    exit 1
+else
+    printf 'ip check succeeded\n'
+fi
 
+# test for proper pf syntax
 if pfctl -n -f /etc/pf.conf; then
     printf 'pf rules check succeeded\n'
     pfctl -f /etc/pf.conf
 else
     printf 'pf rules check failed\n'
-    printf 'restoring backup spamd-whitelist that worked'
+    printf 'restoring backup spamd-whitelist that worked\n'
+    echo 'some ips were wrong and I had to restore the old backup spamd-spf.txt file check on the server which ip is wrong' | mail -s 'SOMETHING WRONG WITH SPAMD-UPDATE SCRIPT!' mve@pragmasec.nl 
     cp $FILE_BCK $FILE
     pfctl -f /etc/pf.conf
 fi
+
