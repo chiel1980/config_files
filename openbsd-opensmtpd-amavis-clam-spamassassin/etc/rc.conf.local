@@ -1,0 +1,6 @@
+httpd_flags=
+pkg_scripts=clamd freshclam dovecot spamassassin amavisd
+sndiod_flags=NO
+spamd_flags="-v -G 2:4:864" # for normal use: "" and see spamd-setup(8)
+spamd_grey=YES              # use spamd greylisting if YES
+unbound_flags=
