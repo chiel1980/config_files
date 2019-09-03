@@ -1,0 +1,65 @@
+# note on alerts and emails:
+#
+# You will also need to adjust the action setting, which defines what actions occur when the threshold for ban is met. The default, %(action_)s, only bans the user. %(action_mw)s will ban and send an email with a WhoIs report; while %(action_mwl)s will ban and send an email with the WhoIs report and all relevant lines in the log file. This can also be changed on a jail-specific basis.
+#
+#
+[DEFAULT]
+bantime = 2628000
+findtime = 37200
+sender = fail2ban@pragmasec.nl 
+destemail = mve+fail2ban@pragmasec.nl
+#action = %(action_mwl)s 
+action = %(action_)s 
+banaction = iptables-multiport 
+maxretry = 2
+ignoreip = 127.0.0.1 91.195.1.0/24 178.84.0.0/16 
+
+[sshd]
+enabled = true
+port = ssh 
+
+[opensmtpd]
+filter = opensmtpd
+enabled = true
+port = smtp
+maxretry = 1
+logpath = /var/log/mail.log
+
+[opensmtpd2]
+filter = opensmtpd2
+enabled = true
+port = smtp
+maxretry = 1
+logpath = /var/log/mail.log
+
+[postfix]
+filter = postfix 
+enabled = true
+port = smtp
+maxretry = 1
+logpath = /var/log/mail.log
+#[exim]
+#enabled = true
+#filter = exim_auth
+#logpath = /var/log/exim4/mainlog
+
+#[exim2]
+#enabled = true
+#filter = exim
+#logpath = /var/log/exim4/mainlog
+
+#[exim-reject]
+#enabled = true
+#filter = exim-reject
+#logpath = /var/log/exim4/mainlog
+
+#[exim-spam]
+#enabled = true
+#filter = exim-spam
+#logpath = /var/log/exim4/mainlog
+
+[dovecot]
+enabled = true
+port = pop3,pop3s,imap,imaps
+filter = dovecot
+logpath = /var/log/mail.log

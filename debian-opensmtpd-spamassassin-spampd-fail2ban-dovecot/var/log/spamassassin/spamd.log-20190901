@@ -1,0 +1,657 @@
+Thu Aug 22 11:14:45 2019 [12399] info: logger: removing stderr method
+Thu Aug 22 11:14:46 2019 [12403] info: zoom: able to use 334/346 'body_0' compiled rules (96.531%)
+Thu Aug 22 11:14:46 2019 [12403] warn: util: refusing to untaint suspicious path: "/$SAHOME"
+Thu Aug 22 11:14:48 2019 [12403] warn: util: refusing to untaint suspicious path: "/$SAHOME"
+Thu Aug 22 11:14:48 2019 [12404] info: util: setuid: ruid=0 euid=0 rgid=0 egid=0 
+Thu Aug 22 11:14:48 2019 [12403] info: spamd: server started on IO::Socket::IP [::1]:783, IO::Socket::IP [127.0.0.1]:783 (running version 3.4.2)
+Thu Aug 22 11:14:48 2019 [12403] info: spamd: server pid: 12403
+Thu Aug 22 11:14:48 2019 [12403] info: spamd: server successfully spawned child process, pid 12405
+Thu Aug 22 11:14:48 2019 [12403] info: spamd: server successfully spawned child process, pid 12406
+Thu Aug 22 11:14:48 2019 [12403] info: prefork: child states: SI
+Thu Aug 22 11:14:48 2019 [12403] info: prefork: child states: II
+Thu Aug 22 11:15:13 2019 [12403] info: spamd: server killed by SIGTERM, shutting down
+Thu Aug 22 11:15:14 2019 [12437] info: logger: removing stderr method
+Thu Aug 22 11:15:15 2019 [12441] info: zoom: able to use 334/346 'body_0' compiled rules (96.531%)
+Thu Aug 22 11:15:15 2019 [12442] info: util: setuid: ruid=0 euid=0 rgid=0 egid=0 
+Thu Aug 22 11:15:15 2019 [12441] info: spamd: server started on IO::Socket::IP [::1]:783, IO::Socket::IP [127.0.0.1]:783 (running version 3.4.2)
+Thu Aug 22 11:15:15 2019 [12441] info: spamd: server pid: 12441
+Thu Aug 22 11:15:15 2019 [12441] info: spamd: server successfully spawned child process, pid 12443
+Thu Aug 22 11:15:15 2019 [12441] info: spamd: server successfully spawned child process, pid 12444
+Thu Aug 22 11:15:15 2019 [12441] info: prefork: child states: IS
+Thu Aug 22 11:15:15 2019 [12441] info: prefork: child states: II
+Thu Aug 22 11:19:19 2019 [12441] info: spamd: server killed by SIGTERM, shutting down
+Thu Aug 22 11:19:19 2019 [12441] info: spamd: cannot send SIGINT to child process [12443]: No such process
+Thu Aug 22 11:19:19 2019 [12441] info: spamd: cannot send SIGINT to child process [12444]: No such process
+Thu Aug 22 11:19:19 2019 [12555] info: logger: removing stderr method
+Thu Aug 22 11:19:20 2019 [12559] info: zoom: able to use 334/346 'body_0' compiled rules (96.531%)
+Thu Aug 22 11:19:21 2019 [12560] info: util: setuid: ruid=0 euid=0 rgid=0 egid=0 
+Thu Aug 22 11:19:21 2019 [12559] info: spamd: server started on IO::Socket::IP [::1]:783, IO::Socket::IP [127.0.0.1]:783 (running version 3.4.2)
+Thu Aug 22 11:19:21 2019 [12559] info: spamd: server pid: 12559
+Thu Aug 22 11:19:21 2019 [12559] info: spamd: server successfully spawned child process, pid 12561
+Thu Aug 22 11:19:21 2019 [12559] info: spamd: server successfully spawned child process, pid 12564
+Thu Aug 22 11:19:21 2019 [12559] info: prefork: child states: IS
+Thu Aug 22 11:19:21 2019 [12559] info: prefork: child states: II
+Thu Aug 22 11:19:54 2019 [12559] info: spamd: server killed by SIGTERM, shutting down
+Thu Aug 22 11:19:54 2019 [12559] info: spamd: cannot send SIGINT to child process [12561]: No such process
+Thu Aug 22 11:19:55 2019 [12623] info: logger: removing stderr method
+Thu Aug 22 11:19:56 2019 [12627] info: zoom: able to use 334/346 'body_0' compiled rules (96.531%)
+Thu Aug 22 11:19:57 2019 [12628] info: util: setuid: ruid=0 euid=0 rgid=0 egid=0 
+Thu Aug 22 11:19:57 2019 [12627] info: spamd: server started on IO::Socket::IP [::1]:783, IO::Socket::IP [127.0.0.1]:783 (running version 3.4.2)
+Thu Aug 22 11:19:57 2019 [12627] info: spamd: server pid: 12627
+Thu Aug 22 11:19:57 2019 [12627] info: spamd: server successfully spawned child process, pid 12629
+Thu Aug 22 11:19:57 2019 [12627] info: spamd: server successfully spawned child process, pid 12631
+Thu Aug 22 11:19:57 2019 [12627] info: prefork: child states: IS
+Thu Aug 22 11:19:57 2019 [12627] info: prefork: child states: II
+Sat Aug 24 06:34:20 2019 [12627] info: spamd: server hit by SIGHUP, restarting
+Sat Aug 24 06:34:20 2019 [12627] info: spamd: child [12629] killed successfully: interrupted, signal 2 (0002)
+Sat Aug 24 06:34:20 2019 [12627] info: spamd: child [12631] killed successfully: interrupted, signal 2 (0002)
+Sat Aug 24 06:34:20 2019 [12627] info: spamd: server socket closed, type IO::Socket::IP
+Sat Aug 24 06:34:20 2019 [12627] info: spamd: server socket closed, type IO::Socket::IP
+Sat Aug 24 06:34:20 2019 [12627] info: logger: removing stderr method
+Sat Aug 24 06:34:22 2019 [21194] info: zoom: able to use 367/367 'body_0' compiled rules (100%)
+Sat Aug 24 06:34:24 2019 [21219] info: util: setuid: ruid=0 euid=0 rgid=0 egid=0 
+Sat Aug 24 06:34:24 2019 [21194] info: spamd: server started on IO::Socket::IP [::1]:783, IO::Socket::IP [127.0.0.1]:783 (running version 3.4.2)
+Sat Aug 24 06:34:24 2019 [21194] info: spamd: server pid: 21194
+Sat Aug 24 06:34:24 2019 [21194] info: spamd: server successfully spawned child process, pid 21220
+Sat Aug 24 06:34:24 2019 [21194] info: spamd: server successfully spawned child process, pid 21221
+Sat Aug 24 06:34:24 2019 [21194] info: prefork: child states: IS
+Sat Aug 24 06:34:24 2019 [21194] info: prefork: child states: II
+Sat Aug 24 11:05:46 2019 [21194] info: spamd: server hit by SIGHUP, restarting
+Sat Aug 24 11:05:46 2019 [21194] info: spamd: child [21220] killed successfully: interrupted, signal 2 (0002)
+Sat Aug 24 11:05:46 2019 [21194] info: spamd: child [21221] killed successfully: interrupted, signal 2 (0002)
+Sat Aug 24 11:05:46 2019 [21194] info: spamd: server socket closed, type IO::Socket::IP
+Sat Aug 24 11:05:46 2019 [21194] info: spamd: server socket closed, type IO::Socket::IP
+Sat Aug 24 11:05:46 2019 [21194] info: logger: removing stderr method
+Sat Aug 24 11:05:47 2019 [24897] info: zoom: able to use 367/367 'body_0' compiled rules (100%)
+Sat Aug 24 11:05:47 2019 [24898] info: util: setuid: ruid=0 euid=0 rgid=0 egid=0 
+Sat Aug 24 11:05:48 2019 [24897] info: spamd: server started on IO::Socket::IP [::1]:783, IO::Socket::IP [127.0.0.1]:783 (running version 3.4.2)
+Sat Aug 24 11:05:48 2019 [24897] info: spamd: server pid: 24897
+Sat Aug 24 11:05:48 2019 [24897] info: spamd: server successfully spawned child process, pid 24899
+Sat Aug 24 11:05:48 2019 [24897] info: spamd: server successfully spawned child process, pid 24900
+Sat Aug 24 11:05:48 2019 [24897] info: prefork: child states: IS
+Sat Aug 24 11:05:48 2019 [24897] info: prefork: child states: II
+Sat Aug 24 11:05:51 2019 [24897] info: spamd: server killed by SIGTERM, shutting down
+Sat Aug 24 11:05:51 2019 [24911] info: logger: removing stderr method
+Sat Aug 24 11:05:52 2019 [24915] info: zoom: able to use 367/367 'body_0' compiled rules (100%)
+Sat Aug 24 11:05:53 2019 [24916] info: util: setuid: ruid=0 euid=0 rgid=0 egid=0 
+Sat Aug 24 11:05:54 2019 [24915] info: spamd: server started on IO::Socket::IP [::1]:783, IO::Socket::IP [127.0.0.1]:783 (running version 3.4.2)
+Sat Aug 24 11:05:54 2019 [24915] info: spamd: server pid: 24915
+Sat Aug 24 11:05:54 2019 [24915] info: spamd: server successfully spawned child process, pid 24917
+Sat Aug 24 11:05:54 2019 [24915] info: spamd: server successfully spawned child process, pid 24918
+Sat Aug 24 11:05:54 2019 [24915] info: prefork: child states: IS
+Sat Aug 24 11:05:54 2019 [24915] info: prefork: child states: II
+Sat Aug 24 11:08:06 2019 [24915] info: spamd: server hit by SIGHUP, restarting
+Sat Aug 24 11:08:06 2019 [24915] info: spamd: child [24917] killed successfully: interrupted, signal 2 (0002)
+Sat Aug 24 11:08:06 2019 [24915] info: spamd: child [24918] killed successfully: interrupted, signal 2 (0002)
+Sat Aug 24 11:08:06 2019 [24915] info: spamd: server socket closed, type IO::Socket::IP
+Sat Aug 24 11:08:06 2019 [24915] info: spamd: server socket closed, type IO::Socket::IP
+Sat Aug 24 11:08:06 2019 [24915] info: logger: removing stderr method
+Sat Aug 24 11:08:07 2019 [25032] info: zoom: able to use 367/367 'body_0' compiled rules (100%)
+Sat Aug 24 11:08:07 2019 [25033] info: util: setuid: ruid=0 euid=0 rgid=0 egid=0 
+Sat Aug 24 11:08:08 2019 [25032] info: spamd: server started on IO::Socket::IP [::1]:783, IO::Socket::IP [127.0.0.1]:783 (running version 3.4.2)
+Sat Aug 24 11:08:08 2019 [25032] info: spamd: server pid: 25032
+Sat Aug 24 11:08:08 2019 [25032] info: spamd: server successfully spawned child process, pid 25035
+Sat Aug 24 11:08:08 2019 [25032] info: spamd: server successfully spawned child process, pid 25036
+Sat Aug 24 11:08:08 2019 [25032] info: prefork: child states: IS
+Sat Aug 24 11:08:08 2019 [25032] info: prefork: child states: II
+Mon Aug 26 06:40:29 2019 [25032] info: spamd: server hit by SIGHUP, restarting
+Mon Aug 26 06:40:29 2019 [25032] info: spamd: child [25036] killed successfully: interrupted, signal 2 (0002)
+Mon Aug 26 06:40:29 2019 [25032] info: spamd: child [25035] killed successfully: interrupted, signal 2 (0002)
+Mon Aug 26 06:40:29 2019 [25032] info: spamd: server socket closed, type IO::Socket::IP
+Mon Aug 26 06:40:29 2019 [25032] info: spamd: server socket closed, type IO::Socket::IP
+Mon Aug 26 06:40:30 2019 [25032] info: logger: removing stderr method
+Mon Aug 26 06:40:31 2019 [12198] info: zoom: able to use 364/364 'body_0' compiled rules (100%)
+Mon Aug 26 06:40:33 2019 [12217] info: util: setuid: ruid=0 euid=0 rgid=0 egid=0 
+Mon Aug 26 06:40:33 2019 [12198] info: spamd: server started on IO::Socket::IP [::1]:783, IO::Socket::IP [127.0.0.1]:783 (running version 3.4.2)
+Mon Aug 26 06:40:33 2019 [12198] info: spamd: server pid: 12198
+Mon Aug 26 06:40:33 2019 [12198] info: spamd: server successfully spawned child process, pid 12218
+Mon Aug 26 06:40:33 2019 [12198] info: spamd: server successfully spawned child process, pid 12219
+Mon Aug 26 06:40:33 2019 [12198] info: prefork: child states: IS
+Mon Aug 26 06:40:33 2019 [12198] info: prefork: child states: II
+Mon Aug 26 14:48:53 2019 [12198] info: spamd: server killed by SIGTERM, shutting down
+Mon Aug 26 14:48:53 2019 [12198] info: spamd: cannot send SIGINT to child process [12219]: No such process
+Mon Aug 26 14:48:53 2019 [12198] info: spamd: cannot send SIGINT to child process [12218]: No such process
+Mon Aug 26 14:48:55 2019 [22300] info: logger: removing stderr method
+Mon Aug 26 14:48:56 2019 [22304] info: zoom: able to use 364/364 'body_0' compiled rules (100%)
+Mon Aug 26 14:48:57 2019 [22305] info: util: setuid: ruid=0 euid=0 rgid=0 egid=0 
+Mon Aug 26 14:48:57 2019 [22304] info: spamd: server started on IO::Socket::IP [::1]:783, IO::Socket::IP [127.0.0.1]:783 (running version 3.4.2)
+Mon Aug 26 14:48:57 2019 [22304] info: spamd: server pid: 22304
+Mon Aug 26 14:48:57 2019 [22304] info: spamd: server successfully spawned child process, pid 22306
+Mon Aug 26 14:48:57 2019 [22304] info: spamd: server successfully spawned child process, pid 22307
+Mon Aug 26 14:48:58 2019 [22304] info: prefork: child states: IS
+Mon Aug 26 14:48:58 2019 [22304] info: prefork: child states: II
+Mon Aug 26 14:51:34 2019 [22304] info: spamd: server killed by SIGTERM, shutting down
+Mon Aug 26 14:51:35 2019 [22399] info: logger: removing stderr method
+Mon Aug 26 14:51:35 2019 [22403] info: zoom: able to use 364/364 'body_0' compiled rules (100%)
+Mon Aug 26 14:51:36 2019 [22404] info: util: setuid: ruid=0 euid=0 rgid=0 egid=0 
+Mon Aug 26 14:51:36 2019 [22403] info: rules: meta test __SPF_RANDOM_SENDER has dependency 'SPF_PASS' with a zero score
+Mon Aug 26 14:51:36 2019 [22403] info: rules: meta test FROM_BANK_NOAUTH has dependency 'SPF_PASS' with a zero score
+Mon Aug 26 14:51:36 2019 [22403] info: rules: meta test __NOT_SPOOFED has dependency 'SPF_PASS' with a zero score
+Mon Aug 26 14:51:36 2019 [22403] info: rules: meta test XPRIO has dependency 'SPF_PASS' with a zero score
+Mon Aug 26 14:51:36 2019 [22403] info: rules: meta test __SPF_FULL_PASS has dependency 'SPF_PASS' with a zero score
+Mon Aug 26 14:51:36 2019 [22403] info: spamd: server started on IO::Socket::IP [::1]:783, IO::Socket::IP [127.0.0.1]:783 (running version 3.4.2)
+Mon Aug 26 14:51:36 2019 [22403] info: spamd: server pid: 22403
+Mon Aug 26 14:51:36 2019 [22403] info: spamd: server successfully spawned child process, pid 22405
+Mon Aug 26 14:51:36 2019 [22403] info: spamd: server successfully spawned child process, pid 22407
+Mon Aug 26 14:51:36 2019 [22403] info: prefork: child states: IS
+Mon Aug 26 14:51:36 2019 [22403] info: prefork: child states: II
+Mon Aug 26 14:54:57 2019 [22403] info: spamd: server killed by SIGTERM, shutting down
+Mon Aug 26 14:54:57 2019 [22496] info: logger: removing stderr method
+Mon Aug 26 14:54:58 2019 [22501] info: zoom: able to use 364/364 'body_0' compiled rules (100%)
+Mon Aug 26 14:54:58 2019 [22502] info: util: setuid: ruid=0 euid=0 rgid=0 egid=0 
+Mon Aug 26 14:54:59 2019 [22501] info: spamd: server started on IO::Socket::IP [::1]:783, IO::Socket::IP [127.0.0.1]:783 (running version 3.4.2)
+Mon Aug 26 14:54:59 2019 [22501] info: spamd: server pid: 22501
+Mon Aug 26 14:54:59 2019 [22501] info: spamd: server successfully spawned child process, pid 22503
+Mon Aug 26 14:54:59 2019 [22501] info: spamd: server successfully spawned child process, pid 22504
+Mon Aug 26 14:54:59 2019 [22501] info: prefork: child states: IS
+Mon Aug 26 14:54:59 2019 [22501] info: prefork: child states: II
+Tue Aug 27 06:27:35 2019 [22501] info: spamd: server hit by SIGHUP, restarting
+Tue Aug 27 06:27:35 2019 [22501] info: spamd: child [22504] killed successfully: interrupted, signal 2 (0002)
+Tue Aug 27 06:27:35 2019 [22501] info: spamd: child [22503] killed successfully: interrupted, signal 2 (0002)
+Tue Aug 27 06:27:35 2019 [22501] info: spamd: server socket closed, type IO::Socket::IP
+Tue Aug 27 06:27:35 2019 [22501] info: spamd: server socket closed, type IO::Socket::IP
+Tue Aug 27 06:27:35 2019 [22501] info: logger: removing stderr method
+Tue Aug 27 06:27:37 2019 [8361] info: zoom: able to use 364/364 'body_0' compiled rules (100%)
+Tue Aug 27 06:27:38 2019 [8380] info: util: setuid: ruid=0 euid=0 rgid=0 egid=0 
+Tue Aug 27 06:27:38 2019 [8361] info: spamd: server started on IO::Socket::IP [::1]:783, IO::Socket::IP [127.0.0.1]:783 (running version 3.4.2)
+Tue Aug 27 06:27:38 2019 [8361] info: spamd: server pid: 8361
+Tue Aug 27 06:27:38 2019 [8361] info: spamd: server successfully spawned child process, pid 8381
+Tue Aug 27 06:27:38 2019 [8361] info: spamd: server successfully spawned child process, pid 8382
+Tue Aug 27 06:27:38 2019 [8361] info: prefork: child states: IS
+Tue Aug 27 06:27:38 2019 [8361] info: prefork: child states: II
+Tue Aug 27 11:00:33 2019 [8381] info: spamd: connection from ::1 [::1]:42456 to port 783, fd 5
+Tue Aug 27 11:00:33 2019 [8381] info: spamd: creating default_prefs: /var/lib/spamassassin/.spamassassin/user_prefs
+Tue Aug 27 11:00:33 2019 [8381] warn: config: created user preferences file: /var/lib/spamassassin/.spamassassin/user_prefs
+Tue Aug 27 11:00:33 2019 [8381] info: spamd: processing message <CA6EDA4D-7356-4DEE-BA66-B4F1FC5A4D58@gmail.com> for debian-spamd:1002
+Tue Aug 27 11:00:34 2019 [16533] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Tue Aug 27 11:00:35 2019 [8381] info: spamd: clean message (1.9/4.1) for debian-spamd:1002 in 2.4 seconds, 2689 bytes.
+Tue Aug 27 11:00:35 2019 [8381] info: spamd: result: . 1 - DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,FSL_BULK_SIG,PYZOR_CHECK,SPF_HELO_NONE scantime=2.4,size=2689,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=42456,mid=<CA6EDA4D-7356-4DEE-BA66-B4F1FC5A4D58@gmail.com>,autolearn=no autolearn_force=no
+Tue Aug 27 11:00:35 2019 [8361] info: prefork: child states: II
+Tue Aug 27 11:00:53 2019 [8381] info: spamd: connection from ::1 [::1]:42466 to port 783, fd 5
+Tue Aug 27 11:00:53 2019 [8381] info: spamd: processing message <47BB6384-4CA0-4DD6-8FA6-9502455326EF@gmail.com> for debian-spamd:1002
+Tue Aug 27 11:00:54 2019 [16689] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Tue Aug 27 11:00:54 2019 [8381] info: spamd: clean message (1.9/4.1) for debian-spamd:1002 in 0.5 seconds, 2688 bytes.
+Tue Aug 27 11:00:54 2019 [8381] info: spamd: result: . 1 - DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,FSL_BULK_SIG,PYZOR_CHECK,SPF_HELO_NONE scantime=0.5,size=2688,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=42466,mid=<47BB6384-4CA0-4DD6-8FA6-9502455326EF@gmail.com>,autolearn=no autolearn_force=no
+Tue Aug 27 11:00:54 2019 [8361] info: prefork: child states: II
+Tue Aug 27 11:01:27 2019 [8381] info: spamd: connection from ::1 [::1]:42476 to port 783, fd 5
+Tue Aug 27 11:01:27 2019 [8381] info: spamd: processing message <39CF82BB-D1FD-4AF4-8D32-60F8BD313637@gmail.com> for debian-spamd:1002
+Tue Aug 27 11:01:27 2019 [16708] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Tue Aug 27 11:01:27 2019 [8381] info: spamd: clean message (1.9/4.1) for debian-spamd:1002 in 0.5 seconds, 2694 bytes.
+Tue Aug 27 11:01:27 2019 [8381] info: spamd: result: . 1 - DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,FSL_BULK_SIG,PYZOR_CHECK,SPF_HELO_NONE scantime=0.5,size=2694,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=42476,mid=<39CF82BB-D1FD-4AF4-8D32-60F8BD313637@gmail.com>,autolearn=no autolearn_force=no
+Tue Aug 27 11:01:28 2019 [8361] info: prefork: child states: II
+Tue Aug 27 11:04:41 2019 [8381] info: spamd: connection from ::1 [::1]:42490 to port 783, fd 5
+Tue Aug 27 11:04:41 2019 [8381] info: spamd: processing message <767ACFFA-E752-474D-89A6-892D08531D4A@gmail.com> for debian-spamd:1002
+Tue Aug 27 11:04:41 2019 [16765] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Tue Aug 27 11:04:42 2019 [8381] info: spamd: clean message (1.9/4.1) for debian-spamd:1002 in 0.5 seconds, 2697 bytes.
+Tue Aug 27 11:04:42 2019 [8381] info: spamd: result: . 1 - DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,FSL_BULK_SIG,PYZOR_CHECK,SPF_HELO_NONE scantime=0.5,size=2697,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=42490,mid=<767ACFFA-E752-474D-89A6-892D08531D4A@gmail.com>,autolearn=no autolearn_force=no
+Tue Aug 27 11:04:42 2019 [8361] info: prefork: child states: II
+Tue Aug 27 11:42:20 2019 [8381] info: spamd: connection from ::1 [::1]:42496 to port 783, fd 5
+Tue Aug 27 11:42:20 2019 [8381] info: spamd: processing message <3CD8A750-E16B-4249-908B-C93BBEA2C70A@pragmasec.nl> for debian-spamd:1002
+Tue Aug 27 11:42:21 2019 [17273] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Tue Aug 27 11:42:21 2019 [8381] info: spamd: clean message (1.0/4.1) for debian-spamd:1002 in 1.1 seconds, 540 bytes.
+Tue Aug 27 11:42:21 2019 [8381] info: spamd: result: . 0 - ALL_TRUSTED,FSL_BULK_SIG,PYZOR_CHECK scantime=1.1,size=540,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=42496,mid=<3CD8A750-E16B-4249-908B-C93BBEA2C70A@pragmasec.nl>,autolearn=no autolearn_force=no
+Tue Aug 27 11:42:21 2019 [8361] info: prefork: child states: II
+Tue Aug 27 12:40:30 2019 [8381] info: spamd: connection from ::1 [::1]:42548 to port 783, fd 5
+Tue Aug 27 12:40:30 2019 [8381] info: spamd: processing message <9hecs5xwanjp2e9s80lwm7tl2y2fzxtcl4ywida6z0g9ekkvjb3il5zvcwl04u2xfm808xnruvxk@mail.marktplaats.nl> for debian-spamd:1002
+Tue Aug 27 12:40:31 2019 [18184] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Tue Aug 27 12:40:31 2019 [8381] info: spamd: clean message (0.4/4.1) for debian-spamd:1002 in 1.2 seconds, 21341 bytes.
+Tue Aug 27 12:40:31 2019 [8381] info: spamd: result: . 0 - DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,FROM_LOCAL_NOVOWEL,HTML_MESSAGE,SPF_HELO_PASS,T_REMOTE_IMAGE,URIBL_BLOCKED scantime=1.2,size=21341,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=42548,mid=<9hecs5xwanjp2e9s80lwm7tl2y2fzxtcl4ywida6z0g9ekkvjb3il5zvcwl04u2xfm808xnruvxk@mail.marktplaats.nl>,autolearn=ham autolearn_force=no
+Tue Aug 27 12:40:31 2019 [8361] info: prefork: child states: II
+Tue Aug 27 12:45:26 2019 [8381] info: spamd: connection from ::1 [::1]:42556 to port 783, fd 5
+Tue Aug 27 12:45:26 2019 [8381] info: spamd: processing message <A28F0BFA-7078-4954-926E-2AA58131D67E@frozen-geek.net> for debian-spamd:1002
+Tue Aug 27 12:45:28 2019 [18256] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Tue Aug 27 12:45:28 2019 [8381] info: spamd: clean message (-1.1/4.1) for debian-spamd:1002 in 1.9 seconds, 4684 bytes.
+Tue Aug 27 12:45:28 2019 [8381] info: spamd: result: . -1 - DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,MAILING_LIST_MULTI,SPF_HELO_NONE,URIBL_BLOCKED scantime=1.9,size=4684,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=42556,mid=<A28F0BFA-7078-4954-926E-2AA58131D67E@frozen-geek.net>,autolearn=ham autolearn_force=no
+Tue Aug 27 12:45:28 2019 [8361] info: prefork: child states: II
+Tue Aug 27 13:59:19 2019 [8381] info: spamd: connection from ::1 [::1]:42650 to port 783, fd 5
+Tue Aug 27 13:59:19 2019 [8381] info: spamd: processing message <20190827115858.099A1B8F0@caffeine.andymillar.co.uk> for debian-spamd:1002
+Tue Aug 27 13:59:20 2019 [19709] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Tue Aug 27 13:59:20 2019 [8381] info: spamd: clean message (0.1/4.1) for debian-spamd:1002 in 1.7 seconds, 1542 bytes.
+Tue Aug 27 13:59:20 2019 [8381] info: spamd: result: . 0 - MIME_HEADER_CTYPE_ONLY,SPF_HELO_NONE,URIBL_BLOCKED scantime=1.7,size=1542,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=42650,mid=<20190827115858.099A1B8F0@caffeine.andymillar.co.uk>,autolearn=no autolearn_force=no
+Tue Aug 27 13:59:20 2019 [8361] info: prefork: child states: II
+Tue Aug 27 14:32:54 2019 [8361] info: spamd: server killed by SIGTERM, shutting down
+Tue Aug 27 14:32:54 2019 [8361] info: spamd: cannot send SIGINT to child process [8381]: No such process
+Tue Aug 27 14:32:54 2019 [8361] info: spamd: cannot send SIGINT to child process [8382]: No such process
+Tue Aug 27 14:32:55 2019 [20209] info: logger: removing stderr method
+Tue Aug 27 14:32:56 2019 [20213] info: zoom: able to use 364/364 'body_0' compiled rules (100%)
+Tue Aug 27 14:32:57 2019 [20214] info: util: setuid: ruid=0 euid=0 rgid=0 egid=0 
+Tue Aug 27 14:32:57 2019 [20213] info: spamd: server started on IO::Socket::IP [::1]:783, IO::Socket::IP [127.0.0.1]:783 (running version 3.4.2)
+Tue Aug 27 14:32:57 2019 [20213] info: spamd: server pid: 20213
+Tue Aug 27 14:32:57 2019 [20213] info: spamd: server successfully spawned child process, pid 20215
+Tue Aug 27 14:32:57 2019 [20213] info: spamd: server successfully spawned child process, pid 20217
+Tue Aug 27 14:32:57 2019 [20213] info: prefork: child states: IS
+Tue Aug 27 14:32:57 2019 [20213] info: prefork: child states: II
+Tue Aug 27 14:58:47 2019 [20215] info: spamd: connection from ::1 [::1]:42896 to port 783, fd 5
+Tue Aug 27 14:58:47 2019 [20215] info: spamd: processing message <037f402aa28491d50222cf70fec86f51@pragmasec.nl> for debian-spamd:1002
+Tue Aug 27 14:58:48 2019 [21002] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Tue Aug 27 14:58:48 2019 [20215] info: spamd: clean message (1.0/4.1) for debian-spamd:1002 in 1.1 seconds, 1076 bytes.
+Tue Aug 27 14:58:48 2019 [20215] info: spamd: result: . 0 - ALL_TRUSTED,HTML_MESSAGE,PYZOR_CHECK scantime=1.1,size=1076,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=42896,mid=<037f402aa28491d50222cf70fec86f51@pragmasec.nl>,autolearn=no autolearn_force=no
+Tue Aug 27 14:58:48 2019 [20213] info: prefork: child states: II
+Tue Aug 27 17:13:32 2019 [20215] info: spamd: connection from ::1 [::1]:43010 to port 783, fd 5
+Tue Aug 27 17:13:32 2019 [20215] info: spamd: processing message <270CB0C3-BCAB-43A4-8392-D9455E53044B@pragmasec.nl> for debian-spamd:1002
+Tue Aug 27 17:13:33 2019 [23062] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Tue Aug 27 17:13:34 2019 [20215] info: spamd: clean message (-1.0/4.1) for debian-spamd:1002 in 1.1 seconds, 1445 bytes.
+Tue Aug 27 17:13:34 2019 [20215] info: spamd: result: . 0 - ALL_TRUSTED,HTML_MESSAGE,MIME_QP_LONG_LINE scantime=1.1,size=1445,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=43010,mid=<270CB0C3-BCAB-43A4-8392-D9455E53044B@pragmasec.nl>,autolearn=ham autolearn_force=no
+Tue Aug 27 17:13:34 2019 [20213] info: prefork: child states: II
+Tue Aug 27 17:23:27 2019 [20215] info: spamd: connection from ::1 [::1]:43020 to port 783, fd 5
+Tue Aug 27 17:23:27 2019 [20215] info: spamd: processing message <1c2f2d696a9fa583319f1c187.b7668b4863.20190827150550.85df27b06f.d031f78a@mail126.sea31.mcsv.net> for debian-spamd:1002
+Tue Aug 27 17:23:28 2019 [23159] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Tue Aug 27 17:23:28 2019 [20215] info: spamd: clean message (0.2/4.1) for debian-spamd:1002 in 1.7 seconds, 49419 bytes.
+Tue Aug 27 17:23:28 2019 [20215] info: spamd: result: . 0 - DKIM_ADSP_CUSTOM_MED,DKIM_SIGNED,DKIM_VALID,FORGED_GMAIL_RCVD,FREEMAIL_FROM,HTML_MESSAGE,RCVD_IN_IADB_DK,RCVD_IN_IADB_LISTED,RCVD_IN_IADB_RDNS,RCVD_IN_IADB_SENDERID,RCVD_IN_IADB_SPF,RCVD_IN_MSPIKE_H2,SPF_HELO_PASS,T_KAM_HTML_FONT_INVALID,URIBL_BLOCKED scantime=1.7,size=49419,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=43020,mid=<1c2f2d696a9fa583319f1c187.b7668b4863.20190827150550.85df27b06f.d031f78a@mail126.sea31.mcsv.net>,autolearn=no autolearn_force=no
+Tue Aug 27 17:23:28 2019 [20213] info: prefork: child states: II
+Tue Aug 27 17:50:49 2019 [20215] info: spamd: connection from ::1 [::1]:43074 to port 783, fd 5
+Tue Aug 27 17:50:49 2019 [20215] info: spamd: processing message <HE1P195MB044415073F95388C7EA7334EC5A00@HE1P195MB0444.EURP195.PROD.OUTLOOK.COM> for debian-spamd:1002
+Tue Aug 27 17:50:51 2019 [23813] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Tue Aug 27 17:50:51 2019 [20215] info: spamd: clean message (0.1/4.1) for debian-spamd:1002 in 1.9 seconds, 98067 bytes.
+Tue Aug 27 17:50:51 2019 [20215] info: spamd: result: . 0 - DKIM_SIGNED,DKIM_VALID,HTML_FONT_LOW_CONTRAST,HTML_MESSAGE,SPF_HELO_PASS,URIBL_BLOCKED,URI_HEX scantime=1.9,size=98067,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=43074,mid=<HE1P195MB044415073F95388C7EA7334EC5A00@HE1P195MB0444.EURP195.PROD.OUTLOOK.COM>,autolearn=no autolearn_force=no
+Tue Aug 27 17:50:51 2019 [20213] info: prefork: child states: II
+Tue Aug 27 20:04:33 2019 [20215] info: spamd: connection from ::1 [::1]:43176 to port 783, fd 5
+Tue Aug 27 20:04:33 2019 [20215] info: spamd: processing message <537C2C1F-E291-4107-A17E-8E5C60395C1F@pragmasec.nl> for debian-spamd:1002
+Tue Aug 27 20:04:35 2019 [25712] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Tue Aug 27 20:04:35 2019 [20215] info: spamd: clean message (-0.9/4.1) for debian-spamd:1002 in 1.8 seconds, 37507 bytes.
+Tue Aug 27 20:04:35 2019 [20215] info: spamd: result: . 0 - ALL_TRUSTED,HTML_FONT_LOW_CONTRAST,HTML_MESSAGE,MIME_QP_LONG_LINE,T_KAM_HTML_FONT_INVALID,URIBL_BLOCKED,URI_HEX scantime=1.8,size=37507,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=43176,mid=<537C2C1F-E291-4107-A17E-8E5C60395C1F@pragmasec.nl>,autolearn=no autolearn_force=no
+Tue Aug 27 20:04:35 2019 [20213] info: prefork: child states: II
+Tue Aug 27 20:20:29 2019 [20215] info: spamd: connection from ::1 [::1]:43186 to port 783, fd 5
+Tue Aug 27 20:20:29 2019 [20215] info: spamd: processing message <8EDB3FD4-BDCA-4A3A-ADD6-CA4AFD93AAAE@pragmasec.nl> for debian-spamd:1002
+Tue Aug 27 20:20:30 2019 [25901] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Tue Aug 27 20:20:30 2019 [20215] info: spamd: clean message (-1.0/4.1) for debian-spamd:1002 in 1.1 seconds, 760 bytes.
+Tue Aug 27 20:20:30 2019 [20215] info: spamd: result: . -1 - ALL_TRUSTED scantime=1.1,size=760,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=43186,mid=<8EDB3FD4-BDCA-4A3A-ADD6-CA4AFD93AAAE@pragmasec.nl>,autolearn=ham autolearn_force=no
+Tue Aug 27 20:20:30 2019 [20213] info: prefork: child states: II
+Tue Aug 27 20:26:59 2019 [20215] info: spamd: connection from ::1 [::1]:43196 to port 783, fd 5
+Tue Aug 27 20:26:59 2019 [20215] info: spamd: processing message <alpine.LNX.2.20.1908271043030.31674@thursday.test> for debian-spamd:1002
+Tue Aug 27 20:27:00 2019 [25953] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Tue Aug 27 20:27:00 2019 [20215] info: spamd: clean message (-1.0/4.1) for debian-spamd:1002 in 0.8 seconds, 2583 bytes.
+Tue Aug 27 20:27:00 2019 [20215] info: spamd: result: . 0 - MAILING_LIST_MULTI,SPF_HELO_NONE,URIBL_BLOCKED scantime=0.8,size=2583,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=43196,mid=<alpine.LNX.2.20.1908271043030.31674@thursday.test>,autolearn=ham autolearn_force=no
+Tue Aug 27 20:27:00 2019 [20213] info: prefork: child states: II
+Tue Aug 27 21:40:36 2019 [20215] info: spamd: connection from ::1 [::1]:43246 to port 783, fd 5
+Tue Aug 27 21:40:36 2019 [20215] info: spamd: processing message <trinity-e2d49897-36f1-4a4d-a530-0c9459611587-1566934835270@msvc-mesg-gmx022> for debian-spamd:1002
+Tue Aug 27 21:40:36 2019 [27090] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Tue Aug 27 21:40:36 2019 [20215] info: spamd: clean message (0.1/4.1) for debian-spamd:1002 in 0.5 seconds, 2540 bytes.
+Tue Aug 27 21:40:36 2019 [20215] info: spamd: result: . 0 - DKIM_SIGNED,DKIM_VALID,FREEMAIL_FROM,HTML_MESSAGE,MIME_HTML_ONLY,SPF_HELO_NONE scantime=0.5,size=2540,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=43246,mid=<trinity-e2d49897-36f1-4a4d-a530-0c9459611587-1566934835270@msvc-mesg-gmx022>,autolearn=no autolearn_force=no
+Tue Aug 27 21:40:36 2019 [20213] info: prefork: child states: II
+Tue Aug 27 21:40:57 2019 [20215] info: spamd: connection from ::1 [::1]:43250 to port 783, fd 5
+Tue Aug 27 21:40:57 2019 [20215] info: spamd: processing message <F05C50F2-64E0-46C9-BD29-F8D0602BE467@pragmasec.nl> for debian-spamd:1002
+Tue Aug 27 21:40:58 2019 [27111] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Tue Aug 27 21:40:58 2019 [20215] info: spamd: clean message (-1.0/4.1) for debian-spamd:1002 in 0.5 seconds, 949 bytes.
+Tue Aug 27 21:40:58 2019 [20215] info: spamd: result: . 0 - ALL_TRUSTED,URIBL_BLOCKED scantime=0.5,size=949,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=43250,mid=<F05C50F2-64E0-46C9-BD29-F8D0602BE467@pragmasec.nl>,autolearn=ham autolearn_force=no
+Tue Aug 27 21:40:58 2019 [20213] info: prefork: child states: II
+Tue Aug 27 23:31:38 2019 [20215] info: spamd: connection from ::1 [::1]:43344 to port 783, fd 5
+Tue Aug 27 23:31:38 2019 [20215] info: spamd: processing message <EA64AD6D-E6DD-4FA9-A0DE-5D3D1AE5ECC7@frozen-geek.net> for debian-spamd:1002
+Tue Aug 27 23:31:39 2019 [28824] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Tue Aug 27 23:31:40 2019 [20215] info: spamd: clean message (-1.1/4.1) for debian-spamd:1002 in 1.8 seconds, 4364 bytes.
+Tue Aug 27 23:31:40 2019 [20215] info: spamd: result: . -1 - DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,MAILING_LIST_MULTI,SPF_HELO_NONE,URIBL_BLOCKED scantime=1.8,size=4364,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=43344,mid=<EA64AD6D-E6DD-4FA9-A0DE-5D3D1AE5ECC7@frozen-geek.net>,autolearn=ham autolearn_force=no
+Tue Aug 27 23:31:40 2019 [20213] info: prefork: child states: II
+Wed Aug 28 00:02:33 2019 [20215] info: spamd: connection from ::1 [::1]:43400 to port 783, fd 5
+Wed Aug 28 00:02:33 2019 [20215] info: spamd: processing message <1cbfddaa-48e3-5f3e-f566-0d13a21179db@mrstuudio.ee> for debian-spamd:1002
+Wed Aug 28 00:02:35 2019 [29547] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Wed Aug 28 00:02:35 2019 [20215] info: spamd: clean message (-1.1/4.1) for debian-spamd:1002 in 2.3 seconds, 8705 bytes.
+Wed Aug 28 00:02:35 2019 [20215] info: spamd: result: . -1 - DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HTML_MESSAGE,MAILING_LIST_MULTI,SPF_HELO_NONE,URIBL_BLOCKED scantime=2.3,size=8705,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=43400,mid=<1cbfddaa-48e3-5f3e-f566-0d13a21179db@mrstuudio.ee>,autolearn=ham autolearn_force=no
+Wed Aug 28 00:02:35 2019 [20213] info: prefork: child states: II
+Wed Aug 28 07:09:36 2019 [20213] info: spamd: server hit by SIGHUP, restarting
+Wed Aug 28 07:09:36 2019 [20213] info: spamd: child [20215] killed successfully: interrupted, signal 2 (0002)
+Wed Aug 28 07:09:36 2019 [20213] info: spamd: child [20217] killed successfully: interrupted, signal 2 (0002)
+Wed Aug 28 07:09:36 2019 [20213] info: spamd: server socket closed, type IO::Socket::IP
+Wed Aug 28 07:09:36 2019 [20213] info: spamd: server socket closed, type IO::Socket::IP
+Wed Aug 28 07:09:37 2019 [20213] info: logger: removing stderr method
+Wed Aug 28 07:09:38 2019 [4286] info: zoom: able to use 369/369 'body_0' compiled rules (100%)
+Wed Aug 28 07:09:39 2019 [4290] info: util: setuid: ruid=0 euid=0 rgid=0 egid=0 
+Wed Aug 28 07:09:39 2019 [4286] info: spamd: server started on IO::Socket::IP [::1]:783, IO::Socket::IP [127.0.0.1]:783 (running version 3.4.2)
+Wed Aug 28 07:09:39 2019 [4286] info: spamd: server pid: 4286
+Wed Aug 28 07:09:39 2019 [4286] info: spamd: server successfully spawned child process, pid 4291
+Wed Aug 28 07:09:39 2019 [4286] info: spamd: server successfully spawned child process, pid 4292
+Wed Aug 28 07:09:39 2019 [4286] info: prefork: child states: IS
+Wed Aug 28 07:09:39 2019 [4286] info: prefork: child states: II
+Wed Aug 28 08:40:31 2019 [4291] info: spamd: connection from ::1 [::1]:43774 to port 783, fd 5
+Wed Aug 28 08:40:31 2019 [4291] info: spamd: processing message <HE1P195MB04443421E9D74497423EC9F5C5A30@HE1P195MB0444.EURP195.PROD.OUTLOOK.COM> for debian-spamd:1002
+Wed Aug 28 08:40:32 2019 [5502] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Wed Aug 28 08:40:33 2019 [4291] info: spamd: clean message (0.1/4.1) for debian-spamd:1002 in 1.2 seconds, 111719 bytes.
+Wed Aug 28 08:40:33 2019 [4291] info: spamd: result: . 0 - DKIM_SIGNED,DKIM_VALID,HTML_FONT_LOW_CONTRAST,HTML_MESSAGE,SPF_HELO_PASS,T_KAM_HTML_FONT_INVALID,URIBL_BLOCKED,URI_HEX scantime=1.2,size=111719,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=43774,mid=<HE1P195MB04443421E9D74497423EC9F5C5A30@HE1P195MB0444.EURP195.PROD.OUTLOOK.COM>,autolearn=no autolearn_force=no
+Wed Aug 28 08:40:33 2019 [4286] info: prefork: child states: II
+Wed Aug 28 08:58:48 2019 [4291] info: spamd: connection from ::1 [::1]:43828 to port 783, fd 5
+Wed Aug 28 08:58:48 2019 [4291] info: spamd: processing message <075E19AE-18A7-4114-9B5E-8862A927CB04@pragmasec.nl> for debian-spamd:1002
+Wed Aug 28 08:58:49 2019 [7450] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Wed Aug 28 08:58:50 2019 [4291] info: spamd: clean message (-0.9/4.1) for debian-spamd:1002 in 1.8 seconds, 57583 bytes.
+Wed Aug 28 08:58:50 2019 [4291] info: spamd: result: . 0 - ALL_TRUSTED,HTML_MESSAGE,T_KAM_HTML_FONT_INVALID,URIBL_BLOCKED,URI_HEX scantime=1.8,size=57583,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=43828,mid=<075E19AE-18A7-4114-9B5E-8862A927CB04@pragmasec.nl>,autolearn=no autolearn_force=no
+Wed Aug 28 08:58:50 2019 [4286] info: prefork: child states: II
+Wed Aug 28 08:59:10 2019 [4291] info: spamd: connection from ::1 [::1]:43838 to port 783, fd 5
+Wed Aug 28 08:59:10 2019 [4291] info: spamd: processing message <C722F80F-F9FE-4A45-A32B-5DDD951B4DA5@pragmasec.nl> for debian-spamd:1002
+Wed Aug 28 08:59:11 2019 [7459] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Wed Aug 28 08:59:11 2019 [4291] info: spamd: clean message (3.3/4.1) for debian-spamd:1002 in 1.1 seconds, 557 bytes.
+Wed Aug 28 08:59:11 2019 [4291] info: spamd: result: . 3 - ALL_TRUSTED,EMPTY_MESSAGE,FSL_BULK_SIG,PYZOR_CHECK scantime=1.1,size=557,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=43838,mid=<C722F80F-F9FE-4A45-A32B-5DDD951B4DA5@pragmasec.nl>,autolearn=no autolearn_force=no
+Wed Aug 28 08:59:11 2019 [4286] info: prefork: child states: II
+Wed Aug 28 09:02:17 2019 [4291] info: spamd: connection from ::1 [::1]:43848 to port 783, fd 5
+Wed Aug 28 09:02:17 2019 [4291] info: spamd: processing message <037d8dbe-484a-4aca-4c26-1939550a21a5@mrstuudio.ee> for debian-spamd:1002
+Wed Aug 28 09:02:18 2019 [7543] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Wed Aug 28 09:02:18 2019 [4291] info: spamd: clean message (-1.1/4.1) for debian-spamd:1002 in 1.3 seconds, 5471 bytes.
+Wed Aug 28 09:02:18 2019 [4291] info: spamd: result: . -1 - DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HTML_MESSAGE,MAILING_LIST_MULTI,SPF_HELO_NONE,URIBL_BLOCKED scantime=1.3,size=5471,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=43848,mid=<037d8dbe-484a-4aca-4c26-1939550a21a5@mrstuudio.ee>,autolearn=ham autolearn_force=no
+Wed Aug 28 09:02:18 2019 [4286] info: prefork: child states: II
+Wed Aug 28 09:05:30 2019 [4291] info: spamd: connection from ::1 [::1]:43860 to port 783, fd 5
+Wed Aug 28 09:05:30 2019 [4291] info: spamd: processing message <1566975927-32058-mlmmj-493e8369@opensmtpd.org> for debian-spamd:1002
+Wed Aug 28 09:05:30 2019 [7584] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Wed Aug 28 09:05:30 2019 [4291] info: spamd: clean message (-0.1/4.1) for debian-spamd:1002 in 0.6 seconds, 2010 bytes.
+Wed Aug 28 09:05:30 2019 [4291] info: spamd: result: . 0 - DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,SPF_HELO_NONE,URIBL_BLOCKED scantime=0.6,size=2010,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=43860,mid=<1566975927-32058-mlmmj-493e8369@opensmtpd.org>,autolearn=ham autolearn_force=no
+Wed Aug 28 09:05:30 2019 [4286] info: prefork: child states: II
+Wed Aug 28 09:38:37 2019 [4291] info: spamd: connection from ::1 [::1]:43872 to port 783, fd 5
+Wed Aug 28 09:38:37 2019 [4291] info: spamd: processing message <HE1P195MB0444A60CD586E785499A6454C5A30@HE1P195MB0444.EURP195.PROD.OUTLOOK.COM> for debian-spamd:1002
+Wed Aug 28 09:38:38 2019 [8073] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Wed Aug 28 09:38:39 2019 [4291] info: spamd: clean message (0.0/4.1) for debian-spamd:1002 in 1.3 seconds, 130890 bytes.
+Wed Aug 28 09:38:39 2019 [4291] info: spamd: result: . 0 - DKIM_SIGNED,DKIM_VALID,HTML_FONT_LOW_CONTRAST,HTML_MESSAGE,SPF_HELO_PASS,T_KAM_HTML_FONT_INVALID,URIBL_BLOCKED scantime=1.3,size=130890,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=43872,mid=<HE1P195MB0444A60CD586E785499A6454C5A30@HE1P195MB0444.EURP195.PROD.OUTLOOK.COM>,autolearn=ham autolearn_force=no
+Wed Aug 28 09:38:39 2019 [4286] info: prefork: child states: II
+Wed Aug 28 09:39:31 2019 [4291] info: spamd: connection from ::1 [::1]:43890 to port 783, fd 5
+Wed Aug 28 09:39:31 2019 [4291] info: spamd: processing message <9386F8FE-4F4D-4688-8BFF-0CDBF1FA617F@pragmasec.nl> for debian-spamd:1002
+Wed Aug 28 09:39:31 2019 [8142] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Wed Aug 28 09:39:31 2019 [4291] info: spamd: clean message (-1.0/4.1) for debian-spamd:1002 in 0.5 seconds, 1415 bytes.
+Wed Aug 28 09:39:31 2019 [4291] info: spamd: result: . 0 - ALL_TRUSTED,URIBL_BLOCKED scantime=0.5,size=1415,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=43890,mid=<9386F8FE-4F4D-4688-8BFF-0CDBF1FA617F@pragmasec.nl>,autolearn=ham autolearn_force=no
+Wed Aug 28 09:39:31 2019 [4286] info: prefork: child states: II
+Wed Aug 28 09:39:34 2019 [4291] info: spamd: connection from ::1 [::1]:43896 to port 783, fd 5
+Wed Aug 28 09:39:34 2019 [4291] info: spamd: processing message <1566977972-14568-mlmmj-0926a4a8@opensmtpd.org> for debian-spamd:1002
+Wed Aug 28 09:39:35 2019 [8147] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Wed Aug 28 09:39:35 2019 [4291] info: spamd: clean message (-0.1/4.1) for debian-spamd:1002 in 0.5 seconds, 1492 bytes.
+Wed Aug 28 09:39:35 2019 [4291] info: spamd: result: . 0 - DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,SPF_HELO_NONE,URIBL_BLOCKED scantime=0.5,size=1492,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=43896,mid=<1566977972-14568-mlmmj-0926a4a8@opensmtpd.org>,autolearn=ham autolearn_force=no
+Wed Aug 28 09:39:35 2019 [4286] info: prefork: child states: II
+Wed Aug 28 09:41:39 2019 [4291] info: spamd: connection from ::1 [::1]:43902 to port 783, fd 5
+Wed Aug 28 09:41:39 2019 [4291] info: spamd: processing message <1E56799A-250A-40E7-BC50-51D70B0677B7@pragmasec.nl> for debian-spamd:1002
+Wed Aug 28 09:41:40 2019 [8175] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Wed Aug 28 09:41:40 2019 [4291] info: spamd: clean message (-1.0/4.1) for debian-spamd:1002 in 1.7 seconds, 14413 bytes.
+Wed Aug 28 09:41:40 2019 [4291] info: spamd: result: . 0 - ALL_TRUSTED,HTML_MESSAGE,URIBL_BLOCKED scantime=1.7,size=14413,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=43902,mid=<1E56799A-250A-40E7-BC50-51D70B0677B7@pragmasec.nl>,autolearn=ham autolearn_force=no
+Wed Aug 28 09:41:40 2019 [4286] info: prefork: child states: II
+Wed Aug 28 09:45:14 2019 [4291] info: spamd: connection from ::1 [::1]:43914 to port 783, fd 5
+Wed Aug 28 09:45:14 2019 [4292] info: spamd: connection from ::1 [::1]:43916 to port 783, fd 5
+Wed Aug 28 09:45:14 2019 [4291] info: spamd: processing message <62F3B198-02D6-4ACE-A6B4-C4C733724FB8@pragmasec.nl> for debian-spamd:1002
+Wed Aug 28 09:45:14 2019 [4292] info: spamd: processing message <62F3B198-02D6-4ACE-A6B4-C4C733724FB8@pragmasec.nl> for debian-spamd:1002
+Wed Aug 28 09:45:15 2019 [8227] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Wed Aug 28 09:45:15 2019 [8228] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Wed Aug 28 09:45:15 2019 [4291] info: spamd: clean message (-1.0/4.1) for debian-spamd:1002 in 1.7 seconds, 78097 bytes.
+Wed Aug 28 09:45:15 2019 [4291] info: spamd: result: . 0 - ALL_TRUSTED,HTML_MESSAGE,T_KAM_HTML_FONT_INVALID,URIBL_BLOCKED scantime=1.7,size=78097,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=43914,mid=<62F3B198-02D6-4ACE-A6B4-C4C733724FB8@pragmasec.nl>,autolearn=ham autolearn_force=no
+Wed Aug 28 09:45:15 2019 [4292] info: spamd: clean message (-1.0/4.1) for debian-spamd:1002 in 1.7 seconds, 78097 bytes.
+Wed Aug 28 09:45:15 2019 [4292] info: spamd: result: . 0 - ALL_TRUSTED,HTML_MESSAGE,T_KAM_HTML_FONT_INVALID,URIBL_BLOCKED scantime=1.7,size=78097,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=43916,mid=<62F3B198-02D6-4ACE-A6B4-C4C733724FB8@pragmasec.nl>,autolearn=unavailable autolearn_force=no
+Wed Aug 28 09:45:16 2019 [4286] info: prefork: child states: IB
+Wed Aug 28 09:45:16 2019 [4286] info: prefork: child states: II
+Wed Aug 28 10:22:24 2019 [4291] info: spamd: connection from ::1 [::1]:43986 to port 783, fd 5
+Wed Aug 28 10:22:24 2019 [4291] info: spamd: processing message <2A.3B.06066.32C266D5@mtl-mtsp-mta05-out1> for debian-spamd:1002
+Wed Aug 28 10:22:26 2019 [8789] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Wed Aug 28 10:22:26 2019 [4291] info: spamd: clean message (0.0/4.1) for debian-spamd:1002 in 1.8 seconds, 24438 bytes.
+Wed Aug 28 10:22:26 2019 [4291] info: spamd: result: . 0 - DKIMWL_WL_MED,DKIM_SIGNED,DKIM_VALID,HTML_MESSAGE,MIME_QP_LONG_LINE,MSGID_FROM_MTA_HEADER,SPF_HELO_NONE,T_REMOTE_IMAGE,URIBL_BLOCKED scantime=1.8,size=24438,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=43986,mid=<2A.3B.06066.32C266D5@mtl-mtsp-mta05-out1>,autolearn=ham autolearn_force=no
+Wed Aug 28 10:22:26 2019 [4286] info: prefork: child states: II
+Wed Aug 28 11:31:53 2019 [4291] info: spamd: connection from ::1 [::1]:43998 to port 783, fd 5
+Wed Aug 28 11:31:53 2019 [4291] info: spamd: processing message <HE1P195MB0444947D57C0E1F23181E50BC5A30@HE1P195MB0444.EURP195.PROD.OUTLOOK.COM> for debian-spamd:1002
+Wed Aug 28 11:31:55 2019 [9601] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Wed Aug 28 11:31:55 2019 [4291] info: spamd: clean message (0.0/4.1) for debian-spamd:1002 in 2.2 seconds, 140155 bytes.
+Wed Aug 28 11:31:55 2019 [4291] info: spamd: result: . 0 - DKIM_SIGNED,DKIM_VALID,HTML_FONT_LOW_CONTRAST,HTML_MESSAGE,SPF_HELO_PASS,T_KAM_HTML_FONT_INVALID,URIBL_BLOCKED scantime=2.2,size=140155,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=43998,mid=<HE1P195MB0444947D57C0E1F23181E50BC5A30@HE1P195MB0444.EURP195.PROD.OUTLOOK.COM>,autolearn=ham autolearn_force=no
+Wed Aug 28 11:31:55 2019 [4286] info: prefork: child states: II
+Wed Aug 28 12:42:21 2019 [4291] info: spamd: connection from ::1 [::1]:44016 to port 783, fd 5
+Wed Aug 28 12:42:21 2019 [4291] info: spamd: processing message <D1BBE755-75AB-4BDC-AB20-DDED4DD83667@pragmasec.nl> for debian-spamd:1002
+Wed Aug 28 12:42:22 2019 [10361] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Wed Aug 28 12:42:22 2019 [4291] info: spamd: clean message (-1.0/4.1) for debian-spamd:1002 in 1.3 seconds, 67790 bytes.
+Wed Aug 28 12:42:22 2019 [4291] info: spamd: result: . 0 - ALL_TRUSTED,HTML_FONT_LOW_CONTRAST,HTML_MESSAGE,MIME_QP_LONG_LINE,T_KAM_HTML_FONT_INVALID,URIBL_BLOCKED scantime=1.3,size=67790,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44016,mid=<D1BBE755-75AB-4BDC-AB20-DDED4DD83667@pragmasec.nl>,autolearn=ham autolearn_force=no
+Wed Aug 28 12:42:22 2019 [4286] info: prefork: child states: II
+Wed Aug 28 14:09:35 2019 [4291] info: spamd: connection from ::1 [::1]:44026 to port 783, fd 5
+Wed Aug 28 14:09:35 2019 [4291] info: spamd: processing message <5d666efbca491_33b7ae6e829360a9@381f69301e99.mail> for debian-spamd:1002
+Wed Aug 28 14:09:37 2019 [11257] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Wed Aug 28 14:09:37 2019 [4291] info: spamd: clean message (0.0/4.1) for debian-spamd:1002 in 1.7 seconds, 10200 bytes.
+Wed Aug 28 14:09:37 2019 [4291] info: spamd: result: . 0 - DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HTML_MESSAGE,MIME_HTML_ONLY,SPF_HELO_NONE,T_REMOTE_IMAGE,URIBL_BLOCKED scantime=1.7,size=10200,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44026,mid=<5d666efbca491_33b7ae6e829360a9@381f69301e99.mail>,autolearn=ham autolearn_force=no
+Wed Aug 28 14:09:37 2019 [4286] info: prefork: child states: II
+Wed Aug 28 14:38:51 2019 [4291] info: spamd: connection from ::1 [::1]:44036 to port 783, fd 5
+Wed Aug 28 14:38:51 2019 [4291] info: spamd: processing message <HE1P195MB0444BD6627231F96A3B12B39C5A30@HE1P195MB0444.EURP195.PROD.OUTLOOK.COM> for debian-spamd:1002
+Wed Aug 28 14:38:53 2019 [11522] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Wed Aug 28 14:38:53 2019 [4291] info: spamd: clean message (0.0/4.1) for debian-spamd:1002 in 2.3 seconds, 155552 bytes.
+Wed Aug 28 14:38:53 2019 [4291] info: spamd: result: . 0 - DKIM_SIGNED,DKIM_VALID,HTML_FONT_LOW_CONTRAST,HTML_MESSAGE,SPF_HELO_PASS,T_KAM_HTML_FONT_INVALID,URIBL_BLOCKED scantime=2.3,size=155552,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44036,mid=<HE1P195MB0444BD6627231F96A3B12B39C5A30@HE1P195MB0444.EURP195.PROD.OUTLOOK.COM>,autolearn=ham autolearn_force=no
+Wed Aug 28 14:38:53 2019 [4286] info: prefork: child states: II
+Wed Aug 28 14:44:03 2019 [4291] info: spamd: connection from ::1 [::1]:44052 to port 783, fd 5
+Wed Aug 28 14:44:03 2019 [4291] info: spamd: processing message <BDE3A0DD-E8BC-4E98-8371-1E5ADC0A34E1@pragmasec.nl> for debian-spamd:1002
+Wed Aug 28 14:44:05 2019 [11634] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Wed Aug 28 14:44:05 2019 [4291] info: spamd: clean message (-1.0/4.1) for debian-spamd:1002 in 2.2 seconds, 78603 bytes.
+Wed Aug 28 14:44:05 2019 [4291] info: spamd: result: . 0 - ALL_TRUSTED,HTML_FONT_LOW_CONTRAST,HTML_MESSAGE,MIME_QP_LONG_LINE,T_KAM_HTML_FONT_INVALID,URIBL_BLOCKED scantime=2.2,size=78603,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44052,mid=<BDE3A0DD-E8BC-4E98-8371-1E5ADC0A34E1@pragmasec.nl>,autolearn=ham autolearn_force=no
+Wed Aug 28 14:44:05 2019 [4286] info: prefork: child states: II
+Wed Aug 28 14:44:13 2019 [4291] info: spamd: connection from ::1 [::1]:44062 to port 783, fd 5
+Wed Aug 28 14:44:13 2019 [4291] info: spamd: processing message <46E14E10-1080-4A1C-92C4-74BA9233AE35@pragmasec.nl> for debian-spamd:1002
+Wed Aug 28 14:44:15 2019 [11640] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Wed Aug 28 14:44:15 2019 [4291] info: spamd: clean message (-1.0/4.1) for debian-spamd:1002 in 2.1 seconds, 121307 bytes.
+Wed Aug 28 14:44:15 2019 [4291] info: spamd: result: . 0 - ALL_TRUSTED,HTML_FONT_LOW_CONTRAST,HTML_MESSAGE,MIME_QP_LONG_LINE,T_KAM_HTML_FONT_INVALID,URIBL_BLOCKED scantime=2.1,size=121307,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44062,mid=<46E14E10-1080-4A1C-92C4-74BA9233AE35@pragmasec.nl>,autolearn=ham autolearn_force=no
+Wed Aug 28 14:44:15 2019 [4286] info: prefork: child states: II
+Wed Aug 28 17:08:43 2019 [4291] info: spamd: connection from ::1 [::1]:44080 to port 783, fd 5
+Wed Aug 28 17:08:43 2019 [4291] info: spamd: processing message <HE1P195MB0444C99C5FCA8413D201DABEC5A30@HE1P195MB0444.EURP195.PROD.OUTLOOK.COM> for debian-spamd:1002
+Wed Aug 28 17:08:45 2019 [12950] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Wed Aug 28 17:08:45 2019 [4291] info: spamd: clean message (0.0/4.1) for debian-spamd:1002 in 2.0 seconds, 331292 bytes.
+Wed Aug 28 17:08:45 2019 [4291] info: spamd: result: . 0 - DKIM_SIGNED,DKIM_VALID,HTML_MESSAGE,SPF_HELO_PASS,URIBL_BLOCKED scantime=2.0,size=331292,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44080,mid=<HE1P195MB0444C99C5FCA8413D201DABEC5A30@HE1P195MB0444.EURP195.PROD.OUTLOOK.COM>,autolearn=ham autolearn_force=no
+Wed Aug 28 17:08:45 2019 [4286] info: prefork: child states: II
+Wed Aug 28 17:23:08 2019 [4291] info: spamd: connection from ::1 [::1]:44098 to port 783, fd 5
+Wed Aug 28 17:23:08 2019 [4291] info: spamd: processing message <A9B8AAF0-28E2-43D2-8C87-BD9520260853@pragmasec.nl> for debian-spamd:1002
+Wed Aug 28 17:23:09 2019 [13140] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Wed Aug 28 17:23:10 2019 [4291] info: spamd: clean message (-1.0/4.1) for debian-spamd:1002 in 1.8 seconds, 326889 bytes.
+Wed Aug 28 17:23:10 2019 [4291] info: spamd: result: . 0 - ALL_TRUSTED,HTML_MESSAGE,MIME_QP_LONG_LINE,URIBL_BLOCKED scantime=1.8,size=326889,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44098,mid=<A9B8AAF0-28E2-43D2-8C87-BD9520260853@pragmasec.nl>,autolearn=ham autolearn_force=no
+Wed Aug 28 17:23:10 2019 [4286] info: prefork: child states: II
+Wed Aug 28 17:24:00 2019 [4291] info: spamd: connection from ::1 [::1]:44108 to port 783, fd 5
+Wed Aug 28 17:24:00 2019 [4292] info: spamd: connection from ::1 [::1]:44110 to port 783, fd 5
+Wed Aug 28 17:24:00 2019 [4291] info: spamd: processing message <DAFE2AE6-DD13-4678-AADD-E625EEAFC3B5@pragmasec.nl> for debian-spamd:1002
+Wed Aug 28 17:24:00 2019 [4292] info: spamd: processing message <DAFE2AE6-DD13-4678-AADD-E625EEAFC3B5@pragmasec.nl> for debian-spamd:1002
+Wed Aug 28 17:24:00 2019 [13148] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Wed Aug 28 17:24:01 2019 [13149] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Wed Aug 28 17:24:01 2019 [4291] info: spamd: clean message (-1.0/4.1) for debian-spamd:1002 in 1.0 seconds, 16077 bytes.
+Wed Aug 28 17:24:01 2019 [4291] info: spamd: result: . 0 - ALL_TRUSTED,HTML_MESSAGE,MIME_QP_LONG_LINE,URIBL_BLOCKED scantime=1.0,size=16077,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44108,mid=<DAFE2AE6-DD13-4678-AADD-E625EEAFC3B5@pragmasec.nl>,autolearn=ham autolearn_force=no
+Wed Aug 28 17:24:01 2019 [4286] info: prefork: child states: IB
+Wed Aug 28 17:24:01 2019 [4292] info: spamd: clean message (-1.0/4.1) for debian-spamd:1002 in 1.1 seconds, 16077 bytes.
+Wed Aug 28 17:24:01 2019 [4292] info: spamd: result: . 0 - ALL_TRUSTED,HTML_MESSAGE,MIME_QP_LONG_LINE,URIBL_BLOCKED scantime=1.1,size=16077,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44110,mid=<DAFE2AE6-DD13-4678-AADD-E625EEAFC3B5@pragmasec.nl>,autolearn=unavailable autolearn_force=no
+Wed Aug 28 17:24:01 2019 [4286] info: prefork: child states: II
+Wed Aug 28 17:26:22 2019 [4291] info: spamd: connection from ::1 [::1]:44122 to port 783, fd 5
+Wed Aug 28 17:26:22 2019 [4291] info: spamd: processing message <HE1P195MB04444D8CF35A7AE7C59C876EC5A30@HE1P195MB0444.EURP195.PROD.OUTLOOK.COM> for debian-spamd:1002
+Wed Aug 28 17:26:23 2019 [13185] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Wed Aug 28 17:26:23 2019 [4291] info: spamd: clean message (0.0/4.1) for debian-spamd:1002 in 1.0 seconds, 76871 bytes.
+Wed Aug 28 17:26:23 2019 [4291] info: spamd: result: . 0 - DKIM_SIGNED,DKIM_VALID,HTML_MESSAGE,SPF_HELO_PASS,URIBL_BLOCKED scantime=1.0,size=76871,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44122,mid=<HE1P195MB04444D8CF35A7AE7C59C876EC5A30@HE1P195MB0444.EURP195.PROD.OUTLOOK.COM>,autolearn=ham autolearn_force=no
+Wed Aug 28 17:26:23 2019 [4286] info: prefork: child states: II
+Wed Aug 28 17:27:02 2019 [4291] info: spamd: connection from ::1 [::1]:44134 to port 783, fd 5
+Wed Aug 28 17:27:02 2019 [4291] info: spamd: processing message <AD0DE5ED-822A-4202-93BA-136A4F26C556@pragmasec.nl> for debian-spamd:1002
+Wed Aug 28 17:27:04 2019 [13209] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Wed Aug 28 17:27:04 2019 [4291] info: spamd: clean message (-1.0/4.1) for debian-spamd:1002 in 1.8 seconds, 66116 bytes.
+Wed Aug 28 17:27:04 2019 [4291] info: spamd: result: . 0 - ALL_TRUSTED,HTML_MESSAGE,MIME_QP_LONG_LINE,URIBL_BLOCKED scantime=1.8,size=66116,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44134,mid=<AD0DE5ED-822A-4202-93BA-136A4F26C556@pragmasec.nl>,autolearn=ham autolearn_force=no
+Wed Aug 28 17:27:04 2019 [4286] info: prefork: child states: II
+Wed Aug 28 18:14:45 2019 [4291] info: spamd: connection from ::1 [::1]:44150 to port 783, fd 5
+Wed Aug 28 18:14:45 2019 [4291] info: spamd: processing message <7572af65-1f14-4f85-87b0-2a86b31bbf26@mtasv.net> for debian-spamd:1002
+Wed Aug 28 18:14:46 2019 [13660] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Wed Aug 28 18:14:46 2019 [4291] info: spamd: clean message (0.0/4.1) for debian-spamd:1002 in 1.7 seconds, 16774 bytes.
+Wed Aug 28 18:14:46 2019 [4291] info: spamd: result: . 0 - DKIMWL_WL_HIGH,DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HTML_MESSAGE,MIME_HTML_ONLY,SPF_HELO_NONE,URIBL_BLOCKED scantime=1.7,size=16774,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44150,mid=<7572af65-1f14-4f85-87b0-2a86b31bbf26@mtasv.net>,autolearn=ham autolearn_force=no
+Wed Aug 28 18:14:46 2019 [4286] info: prefork: child states: II
+Wed Aug 28 18:33:32 2019 [4291] info: spamd: connection from ::1 [::1]:44164 to port 783, fd 5
+Wed Aug 28 18:33:32 2019 [4291] info: spamd: processing message <PATT3L134_18574644_SLvp/MpUrQXFw5SWz6QVWQ==.8A66@webgride211.slgnt.de> for debian-spamd:1002
+Wed Aug 28 18:33:34 2019 [13832] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Wed Aug 28 18:33:34 2019 [4291] info: spamd: clean message (0.0/4.1) for debian-spamd:1002 in 1.8 seconds, 55121 bytes.
+Wed Aug 28 18:33:34 2019 [4291] info: spamd: result: . 0 - DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HTML_FONT_LOW_CONTRAST,HTML_MESSAGE,MIME_HTML_MOSTLY,SPF_HELO_NONE,T_KAM_HTML_FONT_INVALID,URIBL_BLOCKED scantime=1.8,size=55121,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44164,mid=<PATT3L134_18574644_SLvp/MpUrQXFw5SWz6QVWQ==.8A66@webgride211.slgnt.de>,autolearn=ham autolearn_force=no
+Wed Aug 28 18:33:34 2019 [4286] info: prefork: child states: II
+Wed Aug 28 18:33:48 2019 [4291] info: spamd: connection from ::1 [::1]:44176 to port 783, fd 5
+Wed Aug 28 18:33:48 2019 [4291] info: spamd: processing message <05d6bbf6bfba67070a90156054664d52@swift.generated> for debian-spamd:1002
+Wed Aug 28 18:33:48 2019 [13846] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Wed Aug 28 18:33:48 2019 [4291] info: spamd: clean message (-0.1/4.1) for debian-spamd:1002 in 0.8 seconds, 9321 bytes.
+Wed Aug 28 18:33:48 2019 [4291] info: spamd: result: . 0 - DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HTML_MESSAGE,SPF_HELO_NONE,URIBL_BLOCKED scantime=0.8,size=9321,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44176,mid=<05d6bbf6bfba67070a90156054664d52@swift.generated>,autolearn=ham autolearn_force=no
+Wed Aug 28 18:33:48 2019 [4286] info: prefork: child states: II
+Wed Aug 28 19:14:00 2019 [4291] info: spamd: connection from ::1 [::1]:44184 to port 783, fd 5
+Wed Aug 28 19:14:00 2019 [4291] info: spamd: processing message <473373071.10428695.1567012439563.JavaMail.root@worker100> for debian-spamd:1002
+Wed Aug 28 19:14:01 2019 [14275] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Wed Aug 28 19:14:01 2019 [4291] info: spamd: clean message (1.0/4.1) for debian-spamd:1002 in 1.6 seconds, 20738 bytes.
+Wed Aug 28 19:14:01 2019 [4291] info: spamd: result: . 1 - DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,EBAY_IMG_NOT_RCVD_EBAY,HTML_MESSAGE,HTML_TAG_BALANCE_BODY,SPF_HELO_PASS,URIBL_BLOCKED scantime=1.6,size=20738,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44184,mid=<473373071.10428695.1567012439563.JavaMail.root@worker100>,autolearn=no autolearn_force=no
+Wed Aug 28 19:14:01 2019 [4286] info: prefork: child states: II
+Wed Aug 28 23:27:37 2019 [4291] info: spamd: connection from ::1 [::1]:44198 to port 783, fd 5
+Wed Aug 28 23:27:37 2019 [4291] info: spamd: processing message <592226144.9795079.1567027657100.JavaMail.root@worker099> for debian-spamd:1002
+Wed Aug 28 23:27:39 2019 [16767] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Wed Aug 28 23:27:39 2019 [4291] info: spamd: clean message (0.0/4.1) for debian-spamd:1002 in 1.7 seconds, 21250 bytes.
+Wed Aug 28 23:27:39 2019 [4291] info: spamd: result: . 0 - DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HTML_FONT_LOW_CONTRAST,HTML_MESSAGE,HTML_TAG_BALANCE_BODY,SPF_HELO_PASS,URIBL_BLOCKED scantime=1.7,size=21250,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44198,mid=<592226144.9795079.1567027657100.JavaMail.root@worker099>,autolearn=ham autolearn_force=no
+Wed Aug 28 23:27:39 2019 [4286] info: prefork: child states: II
+Thu Aug 29 06:52:25 2019 [4286] info: spamd: server hit by SIGHUP, restarting
+Thu Aug 29 06:52:25 2019 [4286] info: spamd: child [4291] killed successfully: interrupted, signal 2 (0002)
+Thu Aug 29 06:52:25 2019 [4286] info: spamd: child [4292] killed successfully: interrupted, signal 2 (0002)
+Thu Aug 29 06:52:26 2019 [4286] info: spamd: server socket closed, type IO::Socket::IP
+Thu Aug 29 06:52:26 2019 [4286] info: spamd: server socket closed, type IO::Socket::IP
+Thu Aug 29 06:52:26 2019 [4286] info: logger: removing stderr method
+Thu Aug 29 06:52:27 2019 [21416] info: zoom: able to use 372/372 'body_0' compiled rules (100%)
+Thu Aug 29 06:52:28 2019 [21429] info: util: setuid: ruid=0 euid=0 rgid=0 egid=0 
+Thu Aug 29 06:52:28 2019 [21416] info: spamd: server started on IO::Socket::IP [::1]:783, IO::Socket::IP [127.0.0.1]:783 (running version 3.4.2)
+Thu Aug 29 06:52:28 2019 [21416] info: spamd: server pid: 21416
+Thu Aug 29 06:52:28 2019 [21416] info: spamd: server successfully spawned child process, pid 21430
+Thu Aug 29 06:52:28 2019 [21416] info: spamd: server successfully spawned child process, pid 21431
+Thu Aug 29 06:52:28 2019 [21416] info: prefork: child states: IS
+Thu Aug 29 06:52:28 2019 [21416] info: prefork: child states: II
+Thu Aug 29 09:38:53 2019 [21430] info: spamd: connection from ::1 [::1]:44248 to port 783, fd 5
+Thu Aug 29 09:38:53 2019 [21430] info: spamd: processing message <558711cf-076b-482f-8f01-375e35eaab77@thomann.de> for debian-spamd:1002
+Thu Aug 29 09:38:55 2019 [23434] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Thu Aug 29 09:38:55 2019 [21430] info: spamd: clean message (0.0/4.1) for debian-spamd:1002 in 1.9 seconds, 128967 bytes.
+Thu Aug 29 09:38:55 2019 [21430] info: spamd: result: . 0 - HTML_MESSAGE,SPF_HELO_NONE,T_REMOTE_IMAGE,URIBL_BLOCKED scantime=1.9,size=128967,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44248,mid=<558711cf-076b-482f-8f01-375e35eaab77@thomann.de>,autolearn=ham autolearn_force=no
+Thu Aug 29 09:38:55 2019 [21416] info: prefork: child states: II
+Thu Aug 29 13:22:38 2019 [21430] info: spamd: connection from ::1 [::1]:44266 to port 783, fd 5
+Thu Aug 29 13:22:38 2019 [21430] info: spamd: processing message <rm8ae83e280a8c27a36c47f5187ceda2ec20190829012237@service.icscards.nl> for debian-spamd:1002
+Thu Aug 29 13:22:40 2019 [25809] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Thu Aug 29 13:22:40 2019 [21430] info: spamd: clean message (0.0/4.1) for debian-spamd:1002 in 1.6 seconds, 11646 bytes.
+Thu Aug 29 13:22:40 2019 [21430] info: spamd: result: . 0 - DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HTML_MESSAGE,MIME_HTML_ONLY,SPF_HELO_NONE,URIBL_BLOCKED scantime=1.6,size=11646,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44266,mid=<rm8ae83e280a8c27a36c47f5187ceda2ec20190829012237@service.icscards.nl>,autolearn=ham autolearn_force=no
+Thu Aug 29 13:22:40 2019 [21416] info: prefork: child states: II
+Thu Aug 29 20:02:04 2019 [21430] info: spamd: connection from ::1 [::1]:44284 to port 783, fd 5
+Thu Aug 29 20:02:04 2019 [21430] info: spamd: processing message <144588696.11805031.1567101723420.JavaMail.root@worker069> for debian-spamd:1002
+Thu Aug 29 20:02:05 2019 [29764] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Thu Aug 29 20:02:05 2019 [21430] info: spamd: clean message (0.0/4.1) for debian-spamd:1002 in 1.8 seconds, 21265 bytes.
+Thu Aug 29 20:02:05 2019 [21430] info: spamd: result: . 0 - DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HTML_FONT_LOW_CONTRAST,HTML_MESSAGE,HTML_TAG_BALANCE_BODY,SPF_HELO_PASS,URIBL_BLOCKED scantime=1.8,size=21265,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44284,mid=<144588696.11805031.1567101723420.JavaMail.root@worker069>,autolearn=ham autolearn_force=no
+Thu Aug 29 20:02:06 2019 [21416] info: prefork: child states: II
+Fri Aug 30 06:56:31 2019 [21416] info: spamd: server hit by SIGHUP, restarting
+Fri Aug 30 06:56:31 2019 [21416] info: spamd: child [21430] killed successfully: interrupted, signal 2 (0002)
+Fri Aug 30 06:56:31 2019 [21416] info: spamd: child [21431] killed successfully: interrupted, signal 2 (0002)
+Fri Aug 30 06:56:31 2019 [21416] info: spamd: server socket closed, type IO::Socket::IP
+Fri Aug 30 06:56:31 2019 [21416] info: spamd: server socket closed, type IO::Socket::IP
+Fri Aug 30 06:56:31 2019 [21416] info: logger: removing stderr method
+Fri Aug 30 06:56:32 2019 [7798] info: zoom: able to use 372/372 'body_0' compiled rules (100%)
+Fri Aug 30 06:56:34 2019 [7802] info: util: setuid: ruid=0 euid=0 rgid=0 egid=0 
+Fri Aug 30 06:56:34 2019 [7798] info: spamd: server started on IO::Socket::IP [::1]:783, IO::Socket::IP [127.0.0.1]:783 (running version 3.4.2)
+Fri Aug 30 06:56:34 2019 [7798] info: spamd: server pid: 7798
+Fri Aug 30 06:56:34 2019 [7798] info: spamd: server successfully spawned child process, pid 7803
+Fri Aug 30 06:56:34 2019 [7798] info: spamd: server successfully spawned child process, pid 7804
+Fri Aug 30 06:56:34 2019 [7798] info: prefork: child states: IS
+Fri Aug 30 06:56:34 2019 [7798] info: prefork: child states: II
+Fri Aug 30 12:27:01 2019 [7803] info: spamd: connection from ::1 [::1]:44342 to port 783, fd 5
+Fri Aug 30 12:27:01 2019 [7803] info: spamd: processing message <1930120959-105365250@mix.divide.nl> for debian-spamd:1002
+Fri Aug 30 12:27:03 2019 [11593] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Fri Aug 30 12:27:03 2019 [7803] warn: internal error, python traceback seen in response
+Fri Aug 30 12:27:03 2019 [7803] info: spamd: clean message (-0.1/4.1) for debian-spamd:1002 in 2.0 seconds, 21462 bytes.
+Fri Aug 30 12:27:03 2019 [7803] info: spamd: result: . 0 - DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HTML_MESSAGE,SPF_HELO_NONE,T_REMOTE_IMAGE,URIBL_BLOCKED scantime=2.0,size=21462,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44342,mid=<1930120959-105365250@mix.divide.nl>,autolearn=ham autolearn_force=no
+Fri Aug 30 12:27:03 2019 [7798] info: prefork: child states: II
+Fri Aug 30 12:48:50 2019 [7803] info: spamd: connection from ::1 [::1]:44354 to port 783, fd 5
+Fri Aug 30 12:48:50 2019 [7803] info: spamd: processing message <odwakvd75508133.66706685@mail.bizertym.art> for debian-spamd:1002
+Fri Aug 30 12:48:51 2019 [11884] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Fri Aug 30 12:48:51 2019 [7803] info: spamd: identified spam (10.1/4.1) for debian-spamd:1002 in 0.8 seconds, 256808 bytes.
+Fri Aug 30 12:48:51 2019 [7803] info: spamd: result: Y 10 - BODY_URI_ONLY,DIGEST_MULTIPLE,FROM_FMBLA_NEWDOM28,HTML_IMAGE_ONLY_04,HTML_MESSAGE,HTML_SHORT_LINK_IMG_1,MAILING_LIST_MULTI,MPART_ALT_DIFF,PYZOR_CHECK,RAZOR2_CF_RANGE_51_100,RAZOR2_CHECK,SPF_HELO_NONE,URIBL_ABUSE_SURBL,URIBL_BLOCKED scantime=0.8,size=256808,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44354,mid=<odwakvd75508133.66706685@mail.bizertym.art>,autolearn=no autolearn_force=no
+Fri Aug 30 12:48:51 2019 [7798] info: prefork: child states: II
+Fri Aug 30 13:12:46 2019 [7803] info: spamd: connection from ::1 [::1]:44370 to port 783, fd 5
+Fri Aug 30 13:12:46 2019 [7803] info: spamd: processing message (unknown) for debian-spamd:1002
+Fri Aug 30 13:12:48 2019 [12207] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Fri Aug 30 13:12:48 2019 [7803] info: spamd: clean message (0.0/4.1) for debian-spamd:1002 in 2.0 seconds, 1595 bytes.
+Fri Aug 30 13:12:48 2019 [7803] info: spamd: result: . 0 - DKIMWL_WL_HIGH,DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,MISSING_MID,SPF_HELO_PASS,URIBL_BLOCKED scantime=2.0,size=1595,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44370,mid=(unknown),autolearn=ham autolearn_force=no
+Fri Aug 30 13:12:48 2019 [7798] info: prefork: child states: II
+Fri Aug 30 13:21:21 2019 [7803] info: spamd: connection from ::1 [::1]:44382 to port 783, fd 5
+Fri Aug 30 13:21:21 2019 [7803] info: spamd: processing message (unknown) for debian-spamd:1002
+Fri Aug 30 13:21:22 2019 [12323] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Fri Aug 30 13:21:22 2019 [7803] info: spamd: clean message (0.0/4.1) for debian-spamd:1002 in 1.9 seconds, 1499 bytes.
+Fri Aug 30 13:21:22 2019 [7803] info: spamd: result: . 0 - DKIMWL_WL_HIGH,DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,MISSING_MID,SPF_HELO_PASS,URIBL_BLOCKED scantime=1.9,size=1499,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44382,mid=(unknown),autolearn=ham autolearn_force=no
+Fri Aug 30 13:21:23 2019 [7798] info: prefork: child states: II
+Fri Aug 30 17:44:27 2019 [7803] info: spamd: connection from ::1 [::1]:44400 to port 783, fd 5
+Fri Aug 30 17:44:27 2019 [7803] info: spamd: processing message <0102016ce32d5db4-b66cf466-289f-4d28-9975-7d938a338427-000000@eu-west-1.amazonses.com> for debian-spamd:1002
+Fri Aug 30 17:44:29 2019 [15233] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Fri Aug 30 17:44:31 2019 [7803] info: spamd: clean message (-0.1/4.1) for debian-spamd:1002 in 3.7 seconds, 19475 bytes.
+Fri Aug 30 17:44:31 2019 [7803] info: spamd: result: . 0 - DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HTML_FONT_LOW_CONTRAST,HTML_MESSAGE,SPF_HELO_NONE,URIBL_BLOCKED scantime=3.7,size=19475,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44400,mid=<0102016ce32d5db4-b66cf466-289f-4d28-9975-7d938a338427-000000@eu-west-1.amazonses.com>,autolearn=ham autolearn_force=no
+Fri Aug 30 17:44:31 2019 [7798] info: prefork: child states: II
+Fri Aug 30 17:45:11 2019 [7803] info: spamd: connection from ::1 [::1]:44410 to port 783, fd 5
+Fri Aug 30 17:45:11 2019 [7803] info: spamd: processing message <0102016ce32e39d9-9fdc32e4-8c47-4e06-a509-890f22b477fd-000000@eu-west-1.amazonses.com> for debian-spamd:1002
+Fri Aug 30 17:45:12 2019 [15250] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Fri Aug 30 17:45:13 2019 [7803] info: spamd: clean message (-0.1/4.1) for debian-spamd:1002 in 2.1 seconds, 6854 bytes.
+Fri Aug 30 17:45:13 2019 [7803] info: spamd: result: . 0 - DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HTML_MESSAGE,SPF_HELO_NONE,URIBL_BLOCKED scantime=2.1,size=6854,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44410,mid=<0102016ce32e39d9-9fdc32e4-8c47-4e06-a509-890f22b477fd-000000@eu-west-1.amazonses.com>,autolearn=ham autolearn_force=no
+Fri Aug 30 17:45:13 2019 [7798] info: prefork: child states: II
+Fri Aug 30 17:52:09 2019 [7803] info: spamd: connection from ::1 [::1]:44420 to port 783, fd 5
+Fri Aug 30 17:52:09 2019 [7803] info: spamd: processing message <D434E844-FB7E-4A35-A47A-B3385415D626@pragmasec.nl> for debian-spamd:1002
+Fri Aug 30 17:52:11 2019 [15325] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Fri Aug 30 17:52:11 2019 [7803] info: spamd: clean message (-1.0/4.1) for debian-spamd:1002 in 1.6 seconds, 19455 bytes.
+Fri Aug 30 17:52:11 2019 [7803] info: spamd: result: . 0 - ALL_TRUSTED,HTML_FONT_LOW_CONTRAST,HTML_MESSAGE,MIME_QP_LONG_LINE,URIBL_BLOCKED scantime=1.6,size=19455,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44420,mid=<D434E844-FB7E-4A35-A47A-B3385415D626@pragmasec.nl>,autolearn=ham autolearn_force=no
+Fri Aug 30 17:52:11 2019 [7798] info: prefork: child states: II
+Fri Aug 30 18:39:26 2019 [7803] info: spamd: connection from ::1 [::1]:44434 to port 783, fd 5
+Fri Aug 30 18:39:26 2019 [7803] info: spamd: processing message <0102016ce35e9e74-c8d4b871-e5c2-4a1d-a2a9-e692369bf24e-000000@eu-west-1.amazonses.com> for debian-spamd:1002
+Fri Aug 30 18:39:27 2019 [15794] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Fri Aug 30 18:39:27 2019 [7803] info: spamd: clean message (-0.1/4.1) for debian-spamd:1002 in 1.6 seconds, 6590 bytes.
+Fri Aug 30 18:39:27 2019 [7803] info: spamd: result: . 0 - DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HTML_MESSAGE,RCVD_IN_MSPIKE_H2,SPF_HELO_NONE,URIBL_BLOCKED scantime=1.6,size=6590,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44434,mid=<0102016ce35e9e74-c8d4b871-e5c2-4a1d-a2a9-e692369bf24e-000000@eu-west-1.amazonses.com>,autolearn=ham autolearn_force=no
+Fri Aug 30 18:39:27 2019 [7798] info: prefork: child states: II
+Fri Aug 30 20:28:26 2019 [7803] info: spamd: connection from ::1 [::1]:44448 to port 783, fd 5
+Fri Aug 30 20:28:26 2019 [7803] info: spamd: processing message <1200979866.3821793.1567189706002@bol.com> for debian-spamd:1002
+Fri Aug 30 20:28:28 2019 [16851] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Fri Aug 30 20:28:28 2019 [7803] info: spamd: clean message (0.0/4.1) for debian-spamd:1002 in 1.7 seconds, 47931 bytes.
+Fri Aug 30 20:28:28 2019 [7803] info: spamd: result: . 0 - DKIMWL_WL_HIGH,DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HTML_FONT_LOW_CONTRAST,HTML_MESSAGE,MIME_HTML_ONLY,SPF_HELO_NONE,T_REMOTE_IMAGE,URIBL_BLOCKED scantime=1.7,size=47931,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44448,mid=<1200979866.3821793.1567189706002@bol.com>,autolearn=ham autolearn_force=no
+Fri Aug 30 20:28:28 2019 [7798] info: prefork: child states: II
+Fri Aug 30 22:54:15 2019 [7803] info: spamd: connection from ::1 [::1]:44460 to port 783, fd 5
+Fri Aug 30 22:54:15 2019 [7803] info: spamd: processing message <0e6d993c-8663-4c5f-847a-a2e3c4adec6d@dfw1s10mta27.xt.local> for debian-spamd:1002
+Fri Aug 30 22:54:16 2019 [18289] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Fri Aug 30 22:54:16 2019 [7803] info: spamd: clean message (-0.1/4.1) for debian-spamd:1002 in 1.7 seconds, 29162 bytes.
+Fri Aug 30 22:54:16 2019 [7803] info: spamd: result: . 0 - DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HTML_IMAGE_RATIO_02,HTML_MESSAGE,SPF_HELO_NONE,T_KAM_HTML_FONT_INVALID,URIBL_BLOCKED scantime=1.7,size=29162,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44460,mid=<0e6d993c-8663-4c5f-847a-a2e3c4adec6d@dfw1s10mta27.xt.local>,autolearn=ham autolearn_force=no
+Fri Aug 30 22:54:16 2019 [7798] info: prefork: child states: II
+Sat Aug 31 01:36:54 2019 [7803] info: spamd: connection from ::1 [::1]:44474 to port 783, fd 5
+Sat Aug 31 01:36:54 2019 [7803] info: spamd: processing message <FC.CD.11321.413B96D5@mtl-mtsp-mta05-out1> for debian-spamd:1002
+Sat Aug 31 01:36:56 2019 [19874] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Sat Aug 31 01:36:56 2019 [7803] info: spamd: clean message (0.0/4.1) for debian-spamd:1002 in 2.4 seconds, 97319 bytes.
+Sat Aug 31 01:36:56 2019 [7803] info: spamd: result: . 0 - DKIMWL_WL_MED,DKIM_SIGNED,DKIM_VALID,HTML_MESSAGE,MIME_QP_LONG_LINE,MSGID_FROM_MTA_HEADER,SPF_HELO_NONE,T_OBFU_PDF_ATTACH,T_REMOTE_IMAGE,URIBL_BLOCKED scantime=2.4,size=97319,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44474,mid=<FC.CD.11321.413B96D5@mtl-mtsp-mta05-out1>,autolearn=ham autolearn_force=no
+Sat Aug 31 01:36:56 2019 [7798] info: prefork: child states: II
+Sat Aug 31 05:16:49 2019 [7803] info: spamd: connection from ::1 [::1]:44492 to port 783, fd 5
+Sat Aug 31 05:16:49 2019 [7803] info: spamd: processing message <872422231.4027401.1567221408922@bol.com> for debian-spamd:1002
+Sat Aug 31 05:16:51 2019 [21999] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Sat Aug 31 05:16:51 2019 [7803] info: spamd: clean message (0.0/4.1) for debian-spamd:1002 in 1.7 seconds, 39575 bytes.
+Sat Aug 31 05:16:51 2019 [7803] info: spamd: result: . 0 - DKIMWL_WL_HIGH,DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HTML_FONT_LOW_CONTRAST,HTML_IMAGE_RATIO_06,HTML_MESSAGE,MIME_HTML_ONLY,SPF_HELO_NONE,T_REMOTE_IMAGE,URIBL_BLOCKED scantime=1.7,size=39575,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44492,mid=<872422231.4027401.1567221408922@bol.com>,autolearn=ham autolearn_force=no
+Sat Aug 31 05:16:51 2019 [7798] info: prefork: child states: II
+Sat Aug 31 05:33:50 2019 [7803] info: spamd: connection from ::1 [::1]:44502 to port 783, fd 5
+Sat Aug 31 05:33:50 2019 [7803] info: spamd: processing message <1516127201.4019217.1567222429947@bol.com> for debian-spamd:1002
+Sat Aug 31 05:33:52 2019 [22139] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Sat Aug 31 05:33:52 2019 [7803] info: spamd: clean message (0.0/4.1) for debian-spamd:1002 in 1.7 seconds, 42314 bytes.
+Sat Aug 31 05:33:52 2019 [7803] info: spamd: result: . 0 - DKIMWL_WL_HIGH,DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HTML_FONT_LOW_CONTRAST,HTML_MESSAGE,MIME_HTML_ONLY,SPF_HELO_NONE,T_REMOTE_IMAGE,URIBL_BLOCKED scantime=1.7,size=42314,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44502,mid=<1516127201.4019217.1567222429947@bol.com>,autolearn=ham autolearn_force=no
+Sat Aug 31 05:33:52 2019 [7798] info: prefork: child states: II
+Sat Aug 31 07:13:28 2019 [7798] info: spamd: server hit by SIGHUP, restarting
+Sat Aug 31 07:13:28 2019 [7798] info: spamd: child [7803] killed successfully: interrupted, signal 2 (0002)
+Sat Aug 31 07:13:28 2019 [7798] info: spamd: child [7804] killed successfully: interrupted, signal 2 (0002)
+Sat Aug 31 07:13:28 2019 [7798] info: spamd: server socket closed, type IO::Socket::IP
+Sat Aug 31 07:13:28 2019 [7798] info: spamd: server socket closed, type IO::Socket::IP
+Sat Aug 31 07:13:29 2019 [7798] info: logger: removing stderr method
+Sat Aug 31 07:13:29 2019 [23908] info: zoom: able to use 372/372 'body_0' compiled rules (100%)
+Sat Aug 31 07:13:30 2019 [23909] info: util: setuid: ruid=0 euid=0 rgid=0 egid=0 
+Sat Aug 31 07:13:30 2019 [23908] info: spamd: server started on IO::Socket::IP [::1]:783, IO::Socket::IP [127.0.0.1]:783 (running version 3.4.2)
+Sat Aug 31 07:13:30 2019 [23908] info: spamd: server pid: 23908
+Sat Aug 31 07:13:30 2019 [23908] info: spamd: server successfully spawned child process, pid 23910
+Sat Aug 31 07:13:30 2019 [23908] info: spamd: server successfully spawned child process, pid 23911
+Sat Aug 31 07:13:30 2019 [23908] info: prefork: child states: IS
+Sat Aug 31 07:13:30 2019 [23908] info: prefork: child states: II
+Sat Aug 31 10:20:12 2019 [23910] info: spamd: connection from ::1 [::1]:44534 to port 783, fd 5
+Sat Aug 31 10:20:12 2019 [23910] info: spamd: processing message <89a7c9f58a3b538f447ec1bc9.387df4d65b.20190831080129.759d64195f.f4a21767@mail254.suw121.mcdlv.net> for debian-spamd:1002
+Sat Aug 31 10:20:14 2019 [25666] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Sat Aug 31 10:20:14 2019 [23910] info: spamd: clean message (-0.8/4.1) for debian-spamd:1002 in 2.1 seconds, 104101 bytes.
+Sat Aug 31 10:20:14 2019 [23910] info: spamd: result: . 0 - DKIMWL_WL_MED,DKIM_SIGNED,DKIM_VALID,HTML_MESSAGE,MIME_QP_LONG_LINE,RCVD_IN_IADB_DK,RCVD_IN_IADB_LISTED,RCVD_IN_IADB_RDNS,RCVD_IN_IADB_SENDERID,RCVD_IN_IADB_SPF,RCVD_IN_MSPIKE_H2,SPF_HELO_PASS,URIBL_BLOCKED scantime=2.1,size=104101,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44534,mid=<89a7c9f58a3b538f447ec1bc9.387df4d65b.20190831080129.759d64195f.f4a21767@mail254.suw121.mcdlv.net>,autolearn=ham autolearn_force=no
+Sat Aug 31 10:20:14 2019 [23908] info: prefork: child states: II
+Sat Aug 31 12:42:25 2019 [23910] info: spamd: connection from ::1 [::1]:44548 to port 783, fd 5
+Sat Aug 31 12:42:25 2019 [23910] info: spamd: processing message <9jpfelzg2icjty47v1mpirqc87rydn1w1aapu1kqqpv5mxq7bczczlsgar4q1ts9kuslxbh3odzj@mail.marktplaats.nl> for debian-spamd:1002
+Sat Aug 31 12:42:27 2019 [27132] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Sat Aug 31 12:42:27 2019 [23910] info: spamd: clean message (-0.1/4.1) for debian-spamd:1002 in 1.7 seconds, 21626 bytes.
+Sat Aug 31 12:42:27 2019 [23910] info: spamd: result: . 0 - DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HTML_MESSAGE,SPF_HELO_PASS,T_REMOTE_IMAGE,URIBL_BLOCKED scantime=1.7,size=21626,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44548,mid=<9jpfelzg2icjty47v1mpirqc87rydn1w1aapu1kqqpv5mxq7bczczlsgar4q1ts9kuslxbh3odzj@mail.marktplaats.nl>,autolearn=ham autolearn_force=no
+Sat Aug 31 12:42:27 2019 [23908] info: prefork: child states: II
+Sat Aug 31 12:46:34 2019 [23910] info: spamd: connection from ::1 [::1]:44560 to port 783, fd 5
+Sat Aug 31 12:46:34 2019 [23910] info: spamd: processing message <9imbwwoukc80fp6nzq6ne7f9e7n7v97nqwpgzbz4eit1qn4fb575egfdae9i8lsrm1l65sn1jte2@mail.marktplaats.nl> for debian-spamd:1002
+Sat Aug 31 12:46:35 2019 [27191] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Sat Aug 31 12:46:35 2019 [23910] info: spamd: clean message (-0.1/4.1) for debian-spamd:1002 in 0.9 seconds, 21826 bytes.
+Sat Aug 31 12:46:35 2019 [23910] info: spamd: result: . 0 - DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HTML_MESSAGE,SPF_HELO_PASS,T_REMOTE_IMAGE,URIBL_BLOCKED scantime=0.9,size=21826,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44560,mid=<9imbwwoukc80fp6nzq6ne7f9e7n7v97nqwpgzbz4eit1qn4fb575egfdae9i8lsrm1l65sn1jte2@mail.marktplaats.nl>,autolearn=ham autolearn_force=no
+Sat Aug 31 12:46:35 2019 [23908] info: prefork: child states: II
+Sat Aug 31 14:17:04 2019 [23910] info: spamd: connection from ::1 [::1]:44572 to port 783, fd 5
+Sat Aug 31 14:17:05 2019 [23910] info: spamd: processing message <27921ee4.AMoAAEr_qd8AAAAAAAAAAJtthUgAAAAAAbQAAAAAAA69jQBdamLR@mailjet.com> for debian-spamd:1002
+Sat Aug 31 14:17:06 2019 [28078] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Sat Aug 31 14:17:06 2019 [23910] info: spamd: clean message (-0.1/4.1) for debian-spamd:1002 in 1.8 seconds, 68258 bytes.
+Sat Aug 31 14:17:06 2019 [23910] info: spamd: result: . 0 - DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HTML_IMAGE_RATIO_08,HTML_MESSAGE,SPF_HELO_PASS,T_KAM_HTML_FONT_INVALID,URIBL_BLOCKED scantime=1.8,size=68258,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44572,mid=<27921ee4.AMoAAEr_qd8AAAAAAAAAAJtthUgAAAAAAbQAAAAAAA69jQBdamLR@mailjet.com>,autolearn=ham autolearn_force=no
+Sat Aug 31 14:17:06 2019 [23908] info: prefork: child states: II
+Sat Aug 31 14:46:13 2019 [23910] info: spamd: connection from ::1 [::1]:44586 to port 783, fd 5
+Sat Aug 31 14:46:13 2019 [23910] info: spamd: processing message <190831120716.SIM_uxOFyGL9yb469JsseyhsOidM6NJPO_Q3fmD4pABsJKVZqnvcR0%2BUJo3Lj7pLQybk9QGS1R67da3_koPeKEkeSIKRZ8@campagne.veh.nl> for debian-spamd:1002
+Sat Aug 31 14:46:15 2019 [28395] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Sat Aug 31 14:46:15 2019 [23910] info: spamd: clean message (0.6/4.1) for debian-spamd:1002 in 1.8 seconds, 92263 bytes.
+Sat Aug 31 14:46:15 2019 [23910] info: spamd: result: . 0 - DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,FROM_EXCESS_BASE64,HTML_FONT_LOW_CONTRAST,HTML_MESSAGE,MPART_ALT_DIFF,SPF_HELO_PASS,T_REMOTE_IMAGE,URIBL_BLOCKED scantime=1.8,size=92263,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44586,mid=<190831120716.SIM_uxOFyGL9yb469JsseyhsOidM6NJPO_Q3fmD4pABsJKVZqnvcR0%2BUJo3Lj7pLQybk9QGS1R67da3_koPeKEkeSIKRZ8@campagne.veh.nl>,autolearn=no autolearn_force=no
+Sat Aug 31 14:46:15 2019 [23908] info: prefork: child states: II
+Sat Aug 31 20:22:05 2019 [23910] info: spamd: connection from ::1 [::1]:44604 to port 783, fd 5
+Sat Aug 31 20:22:05 2019 [23910] info: spamd: processing message <35063418.14453975.1567275725310.JavaMail.root@worker066> for debian-spamd:1002
+Sat Aug 31 20:22:06 2019 [31682] info: util: setuid: ruid=1002 euid=1002 rgid=1002 1002 1002 egid=1002 1002 1002 
+Sat Aug 31 20:22:06 2019 [23910] info: spamd: clean message (0.0/4.1) for debian-spamd:1002 in 1.0 seconds, 21256 bytes.
+Sat Aug 31 20:22:06 2019 [23910] info: spamd: result: . 0 - DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,HTML_FONT_LOW_CONTRAST,HTML_MESSAGE,HTML_TAG_BALANCE_BODY,SPF_HELO_PASS,URIBL_BLOCKED scantime=1.0,size=21256,user=debian-spamd,uid=1002,required_score=4.1,rhost=::1,raddr=::1,rport=44604,mid=<35063418.14453975.1567275725310.JavaMail.root@worker066>,autolearn=ham autolearn_force=no
+Sat Aug 31 20:22:06 2019 [23908] info: prefork: child states: II
+Sun Sep  1 00:00:04 2019 [23908] info: spamd: server hit by SIGHUP, restarting
+Sun Sep  1 00:00:04 2019 [23908] info: spamd: child [23910] killed successfully: HANGUP, signal 1 (0001)
+Sun Sep  1 00:00:04 2019 [23908] info: spamd: child [23911] killed successfully: HANGUP, signal 1 (0001)
+Sun Sep  1 00:00:04 2019 [23908] info: spamd: server socket closed, type IO::Socket::IP
+Sun Sep  1 00:00:04 2019 [23908] info: spamd: server socket closed, type IO::Socket::IP

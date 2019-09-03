@@ -1,0 +1,286 @@
+=head2 Wed Aug 21 09:06:18 2019: C<Module> L<Mail::SpamAssassin::CompiledRegexps::body_0|Mail::SpamAssassin::CompiledRegexps::body_0>
+
+=over 4
+
+=item *
+
+C<installed into: /tmp/.spamassassin7266KFu32Rtmp/ignored/share/perl/5.28.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.0>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 24 04:34:20 2019: C<Module> L<Mail::SpamAssassin::CompiledRegexps::body_0|Mail::SpamAssassin::CompiledRegexps::body_0>
+
+=over 4
+
+=item *
+
+C<installed into: /tmp/.spamassassin20455n48QqQtmp/ignored/share/perl/5.28.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.0>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 24 09:01:11 2019: C<Module> L<Mail::SpamAssassin::CompiledRegexps::body_0|Mail::SpamAssassin::CompiledRegexps::body_0>
+
+=over 4
+
+=item *
+
+C<installed into: /tmp/.spamassassin24486pa0Q2Wtmp/ignored/share/perl/5.28.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.0>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 24 09:02:40 2019: C<Module> L<Mail::SpamAssassin::CompiledRegexps::body_0|Mail::SpamAssassin::CompiledRegexps::body_0>
+
+=over 4
+
+=item *
+
+C<installed into: /tmp/.spamassassin24671utKWkftmp/ignored/share/perl/5.28.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.0>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Aug 26 04:40:29 2019: C<Module> L<Mail::SpamAssassin::CompiledRegexps::body_0|Mail::SpamAssassin::CompiledRegexps::body_0>
+
+=over 4
+
+=item *
+
+C<installed into: /tmp/.spamassassin12017eC5PXVtmp/ignored/share/perl/5.28.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.0>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Tue Aug 27 04:27:34 2019: C<Module> L<Mail::SpamAssassin::CompiledRegexps::body_0|Mail::SpamAssassin::CompiledRegexps::body_0>
+
+=over 4
+
+=item *
+
+C<installed into: /tmp/.spamassassin8180cwhhK3tmp/ignored/share/perl/5.28.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.0>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Wed Aug 28 05:09:36 2019: C<Module> L<Mail::SpamAssassin::CompiledRegexps::body_0|Mail::SpamAssassin::CompiledRegexps::body_0>
+
+=over 4
+
+=item *
+
+C<installed into: /tmp/.spamassassin4081XhuKmRtmp/ignored/share/perl/5.28.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.0>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Aug 29 04:52:25 2019: C<Module> L<Mail::SpamAssassin::CompiledRegexps::body_0|Mail::SpamAssassin::CompiledRegexps::body_0>
+
+=over 4
+
+=item *
+
+C<installed into: /tmp/.spamassassin21221yrwewxtmp/ignored/share/perl/5.28.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.0>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Aug 30 04:56:31 2019: C<Module> L<Mail::SpamAssassin::CompiledRegexps::body_0|Mail::SpamAssassin::CompiledRegexps::body_0>
+
+=over 4
+
+=item *
+
+C<installed into: /tmp/.spamassassin7596cy2uC1tmp/ignored/share/perl/5.28.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.0>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Aug 31 05:13:28 2019: C<Module> L<Mail::SpamAssassin::CompiledRegexps::body_0|Mail::SpamAssassin::CompiledRegexps::body_0>
+
+=over 4
+
+=item *
+
+C<installed into: /tmp/.spamassassin23732wav179tmp/ignored/share/perl/5.28.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.0>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep  1 05:23:38 2019: C<Module> L<Mail::SpamAssassin::CompiledRegexps::body_0|Mail::SpamAssassin::CompiledRegexps::body_0>
+
+=over 4
+
+=item *
+
+C<installed into: /tmp/.spamassassin6152mjzjNVtmp/ignored/share/perl/5.28.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.0>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Sep  2 04:50:11 2019: C<Module> L<Mail::SpamAssassin::CompiledRegexps::body_0|Mail::SpamAssassin::CompiledRegexps::body_0>
+
+=over 4
+
+=item *
+
+C<installed into: /tmp/.spamassassin21606VymGuftmp/ignored/share/perl/5.28.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.0>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Tue Sep  3 05:12:21 2019: C<Module> L<Mail::SpamAssassin::CompiledRegexps::body_0|Mail::SpamAssassin::CompiledRegexps::body_0>
+
+=over 4
+
+=item *
+
+C<installed into: /tmp/.spamassassin13260ogDkFxtmp/ignored/share/perl/5.28.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.0>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
